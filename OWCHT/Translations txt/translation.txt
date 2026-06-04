@@ -264,7 +264,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 1&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
     <value>
-			飛行日志開始：&lt;color=orange&gt;1號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。
+			飛行日誌開始：&lt;color=orange&gt;1號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。
 		</value>
   </entry>
   <entry>
@@ -2928,7 +2928,7 @@
   </entry>
   <entry>
     <key>Slate_ShipLog_1What? No, I was going to tell you about using the ship log to set destination markers for locations you’ve visited before.</key>
-    <value>什麽？我不是想說這個，我想告訴你，\\n你可以在宇宙飛船日志里為之前去過的地方設置目的地標記。</value>
+    <value>什麽？我不是想說這個，我想告訴你，\\n你可以在宇宙飛船日誌里為之前去過的地方設置目的地標記。</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1It’s a brilliant feature, if I say so myself. Dead useful. And the risk it poses of shorting out the fuel regulator and causing the ship to explode is so minimal that only Gossan would worry about it.</key>
@@ -2940,7 +2940,7 @@
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1Use the ship log to mark a location I want to revisit. Got it.</key>
-    <value>用宇宙飛船日志給我想再去一趟的地方做標記。明白了。</value>
+    <value>用宇宙飛船日誌給我想再去一趟的地方做標記。明白了。</value>
   </entry>
   <entry>
     <key>SlateSlate_ShipLog_1How minimal are we talking?</key>
@@ -2952,7 +2952,7 @@
   </entry>
   <entry>
     <key>Slate_ShipLog_1aWhen you’re on your ship, open up its log to the location you want to mark. Anywhere’s fine, as long as you’ve been there at least once.</key>
-    <value>你先登上宇宙飛船，打開日志，然後就可以做標記了。\\n想標記哪里都可以，只要你至少去過一次那地方就行。</value>
+    <value>你先登上宇宙飛船，打開日誌，然後就可以做標記了。\\n想標記哪里都可以，只要你至少去過一次那地方就行。</value>
   </entry>
   <entry>
     <key>Slate_ShipLog_1aHop in the pilot seat, and the ship will throw up a destination marker on your display. It’s that easy.</key>
@@ -3512,7 +3512,7 @@
   </entry>
   <entry>
     <key>SignDespite my checking on them at least a thousand times over, the images are STILL not ready to print over in the radio tower. Well, it’s like they say — a watched satellite never transmits data! &lt;size=20&gt;(Haha, that’s a little joke for you, journal. No one says that.)&lt;/size&gt;</key>
-    <value>盡管我已經查看了至少上千次，無線電塔還是沒有打印出圖像。嗯，\\n這就是所謂的——觀察中的衛星從不傳輸數據！\\n&lt;SmallText&gt;（哈哈，我這是給你開了個小玩笑呢，我的日志。）&lt;/SmallText&gt;</value>
+    <value>盡管我已經查看了至少上千次，無線電塔還是沒有打印出圖像。嗯，\\n這就是所謂的——觀察中的衛星從不傳輸數據！\\n&lt;SmallText&gt;（哈哈，我這是給你開了個小玩笑呢，我的日誌。）&lt;/SmallText&gt;</value>
   </entry>
   <entry>
     <key>SignSomeday, I’ll have to study the mechanics of how time manages to slow to a syrupy crawl whenever I’m anticipating something. In the meantime, I’ve turned to Gabbro, our resident expert in leisurely whiling away the hours, who recommends the following:</key>
@@ -3524,7 +3524,7 @@
   </entry>
   <entry>
     <key>Sign(If Gabbro knew I’d taken notes, they’d probably think I’d finally cracked, but I refuse to accept sass from an astronaut who deliberately burns their marshmallows.)</key>
-    <value>（如果加布羅知道我會寫日志，也許會認為我終於崩潰了。\\n但我可不允許一個故意把棉花糖烤焦的宇航員對我出言不遜。）</value>
+    <value>（如果加布羅知道我會寫日誌，也許會認為我終於崩潰了。\\n但我可不允許一個故意把棉花糖烤焦的宇航員對我出言不遜。）</value>
   </entry>
   <entry>
     <key>SignCharting stars again out by the radio tower — they’re so bright out here! I only wish I were able to record them faster. Admittedly, I could use more patience. I get so engrossed in my work that sunrise becomes an unwelcome deadline, and daylight a grating slog.</key>
@@ -5329,7 +5329,7 @@
 			BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 2&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.
 		</key>
     <value>
-			飛行日志開始：&lt;color=orange&gt;2號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。
+			飛行日誌開始：&lt;color=orange&gt;2號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。
 		</value>
   </entry>
   <entry>
@@ -5675,7 +5675,7 @@
   </entry>
   <entry>
     <key>BEGIN FLIGHTLOG: &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;. &lt;color=orange&gt;Vessel&lt;/color&gt; has been mortally injured. Emergency sequence activated. Awaiting departure from &lt;color=orange&gt;Vessel&lt;/color&gt;.</key>
-    <value>飛行日志開始：&lt;color=orange&gt;3號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。</value>
+    <value>飛行日誌開始：&lt;color=orange&gt;3號逃生艙&lt;/color&gt;。&lt;color=orange&gt;飛船&lt;/color&gt;遭受嚴重損傷。\\n啟動緊急程序。正在等待從&lt;color=orange&gt;飛船&lt;/color&gt;撤離。</value>
   </entry>
   <entry>
     <key>Now launching &lt;color=orange&gt;Escape Pod 3&lt;/color&gt;.</key>
@@ -5755,7 +5755,7 @@
   </entry>
   <entry>
     <key>BEGIN LAUNCH LOG: &lt;color=orange&gt;Orbital Probe Cannon&lt;/color&gt;. Launch request received. Probe launch successful.</key>
-    <value>發射日志開始：&lt;color=orange&gt;軌道探測炮&lt;/color&gt;。收到發射請求。探測器發射成功。</value>
+    <value>發射日誌開始：&lt;color=orange&gt;軌道探測炮&lt;/color&gt;。收到發射請求。探測器發射成功。</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Probe Tracking Module&lt;/color&gt; is receiving data from probe.</key>
@@ -6147,7 +6147,7 @@
   </entry>
   <entry>
     <key>SignEsker’s Signalscope Log</key>
-    <value>埃斯科信號鏡日志</value>
+    <value>埃斯科信號鏡日誌</value>
   </entry>
   <entry>
     <key>SignDay 48: Still not picking up Riebeck’s banjo from Brittle Hollow. I’m sure they’re fine, but I’ll feel better once I can hear their music.</key>
@@ -10796,7 +10796,7 @@ LOADING...???
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedEsker's signalscope log reports harmonica music coming from somewhere on Timber Hearth. They claim it sounds just like Feldspar's harmonica, but Feldspar disappeared in space ages ago.</key>
-      <value>埃斯科的信號鏡日志報告說，木爐星的某處傳來了口琴聲。\\n他說那聲音聽起來和費爾德斯巴的口琴一模一樣。可是費爾德斯巴早就消失在太空里了。</value>
+      <value>埃斯科的信號鏡日誌報告說，木爐星的某處傳來了口琴聲。\\n他說那聲音聽起來和費爾德斯巴的口琴一模一樣。可是費爾德斯巴早就消失在太空里了。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Dark Bramble SeedA seed from Dark Bramble crashed here and has already taken root. Tektite wants to use a scout launcher to get a look at what's inside.</key>
@@ -12914,11 +12914,11 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>162</key>
-      <value>宇宙飛船日志傳聞模式</value>
+      <value>宇宙飛船日誌傳聞模式</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>163</key>
-      <value>宇宙飛船日志通知</value>
+      <value>宇宙飛船日誌通知</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>164</key>
@@ -12942,7 +12942,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>173</key>
-      <value>宇宙飛船日志</value>
+      <value>宇宙飛船日誌</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>174</key>
@@ -13222,7 +13222,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>260</key>
-      <value>查看宇宙飛船日志</value>
+      <value>查看宇宙飛船日誌</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>261</key>
@@ -13514,7 +13514,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>360</key>
-      <value>離開宇宙飛船日志</value>
+      <value>離開宇宙飛船日誌</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>361</key>
@@ -13646,7 +13646,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>415</key>
-      <value>宇宙飛船日志已更新</value>
+      <value>宇宙飛船日誌已更新</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>416</key>
@@ -13918,7 +13918,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>556</key>
-      <value>宇宙飛船日志模式</value>
+      <value>宇宙飛船日誌模式</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>557</key>
@@ -14018,7 +14018,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>581</key>
-      <value>宇宙飛船日志縮放</value>
+      <value>宇宙飛船日誌縮放</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>582</key>
@@ -14042,7 +14042,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>587</key>
-      <value>宇宙飛船日志滾動</value>
+      <value>宇宙飛船日誌滾動</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>588</key>
@@ -14906,7 +14906,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1033</key>
-      <value>更改宇宙飛船日志模式</value>
+      <value>更改宇宙飛船日誌模式</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1034</key>
@@ -14914,7 +14914,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1035</key>
-      <value>滾動宇宙飛船日志文本</value>
+      <value>滾動宇宙飛船日誌文本</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1036</key>
@@ -15094,11 +15094,11 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1127</key>
-      <value>當宇宙飛船日志中記錄新的信息時，在擡頭顯示器上顯示通知。</value>
+      <value>當宇宙飛船日誌中記錄新的信息時，在擡頭顯示器上顯示通知。</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1128</key>
-      <value>在宇宙飛船日志記錄之間顯示傳聞暗示的聯系。禁用後可以將遊戲中的教學內容減少到最小限度。</value>
+      <value>在宇宙飛船日誌記錄之間顯示傳聞暗示的聯系。禁用後可以將遊戲中的教學內容減少到最小限度。</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1129</key>
@@ -15130,7 +15130,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1136</key>
-      <value>使用宇宙飛船日志時的暫停時間。\\n備注：某些情況下時間無法暫停。</value>
+      <value>使用宇宙飛船日誌時的暫停時間。\\n備注：某些情況下時間無法暫停。</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1137</key>
@@ -15314,15 +15314,15 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1186</key>
-      <value>在宇宙飛船日志中，在地圖模式和探索模式間切換</value>
+      <value>在宇宙飛船日誌中，在地圖模式和探索模式間切換</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1187</key>
-      <value>在宇宙飛船日志中，為所選宇宙飛船日志項目開啟擡頭顯示器標記</value>
+      <value>在宇宙飛船日誌中，為所選宇宙飛船日誌項目開啟擡頭顯示器標記</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1188</key>
-      <value>在宇宙飛船日志中，滾動瀏覽長篇日志記錄</value>
+      <value>在宇宙飛船日誌中，滾動瀏覽長篇日誌記錄</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1189</key>
@@ -15662,7 +15662,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1423</key>
-      <value>閱讀宇宙飛船日志時暫停時間</value>
+      <value>閱讀宇宙飛船日誌時暫停時間</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1424</key>
@@ -15694,7 +15694,7 @@ LOADING...???
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1444</key>
-      <value>宇宙飛船日志</value>
+      <value>宇宙飛船日誌</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1445</key>

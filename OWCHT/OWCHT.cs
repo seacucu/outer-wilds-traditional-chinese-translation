@@ -118,12 +118,12 @@ namespace OWCHT
             string externalPath = self.ModHelper.Manifest.ModFolderPath + "Translation.txt";
             if (System.IO.File.Exists(externalPath))
             {
-                ModHelper.Console.WriteLine("Loading translation from external file: " + externalPath);
+                self.ModHelper.Console.WriteLine("Loading translation from external file: " + externalPath);
                 xml = System.IO.File.ReadAllText(externalPath, System.Text.Encoding.UTF8);
             }
             else
             {
-                ModHelper.Console.WriteLine("External translation file not found, falling back to bundle.");
+                self.ModHelper.Console.WriteLine("External translation file not found, falling back to bundle.");
                 textAsset = self.Bundle.LoadAsset<TextAsset>("Assets/Translation.txt");
                 if (null == textAsset)
                 {
