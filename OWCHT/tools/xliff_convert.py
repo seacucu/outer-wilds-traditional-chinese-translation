@@ -6,7 +6,7 @@ Outer Wilds CHT Translation converter
 
 Mode 2 outputs to two locations:
   - OWCHT/Translations txt/translation.txt  (repo copy, for git diff)
-  - mod folder path defined in tools/local_config.json  (optional, gitignored)
+  - mod folder path defined in OWCHT/tools/local_config.json  (optional, gitignored)
 """
 
 import json
@@ -18,9 +18,9 @@ from xml.dom import minidom
 
 XLIFF_NS = 'urn:oasis:names:tc:xliff:document:1.2'
 
-# tools/ 所在目錄
+# tools/ 所在目錄（OWCHT/tools/）
 TOOLS_DIR  = os.path.dirname(os.path.abspath(__file__))
-REPO_ROOT  = os.path.dirname(TOOLS_DIR)
+REPO_ROOT  = os.path.dirname(os.path.dirname(TOOLS_DIR))  # 往上兩層到 repo root
 REPO_TXT   = os.path.join(REPO_ROOT, 'OWCHT', 'Translations txt', 'translation.txt')
 LOCAL_CONFIG = os.path.join(TOOLS_DIR, 'local_config.json')
 
