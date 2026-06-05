@@ -32,8 +32,8 @@ jobs:
         id: checkTag
         run: |
           $tag = "v${{ steps.read-manifest.outputs.version }}"
-          $exists = git ls-remote --exit-code --tags origin $tag 2>&1
-          if ($LASTEXITCODE -eq 0) {
+          $result = git ls-remote --tags origin "refs/tags/$tag"
+          if ($result) {
             echo "exists=true" >> $env:GITHUB_OUTPUT
           } else {
             echo "exists=false" >> $env:GITHUB_OUTPUT
