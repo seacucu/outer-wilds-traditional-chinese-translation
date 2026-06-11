@@ -1,0 +1,1014 @@
+{
+  "Nomai": {
+    "zh": "挪麥人",
+    "category": "種族"
+  },
+  "Hearthian": {
+    "zh": "爐星人",
+    "category": "種族"
+  },
+  "Eye of the Universe": {
+    "zh": "宇宙之眼",
+    "category": "概念"
+  },
+  "Eye": {
+    "zh": "眼",
+    "category": "概念"
+  },
+  "Vessel": {
+    "zh": "飛船",
+    "category": "概念"
+  },
+  "Ash Twin Project": {
+    "zh": "灰燼雙星計劃",
+    "category": "概念"
+  },
+  "Orbital Probe Cannon": {
+    "zh": "軌道探測砲",
+    "category": "概念"
+  },
+  "Signalscope": {
+    "zh": "訊號望遠鏡",
+    "category": "道具"
+  },
+  "Scout": {
+    "zh": "探測球",
+    "category": "道具"
+  },
+  "Scout Launcher": {
+    "zh": "探測球發射器",
+    "category": "道具"
+  },
+  "Translator": {
+    "zh": "翻譯器",
+    "category": "道具"
+  },
+  "Jetpack Booster": {
+    "zh": "噴射背包推進器",
+    "category": "道具"
+  },
+  "Map": {
+    "zh": "星圖",
+    "category": "概念"
+  },
+  "Medkit": {
+    "zh": "急救包",
+    "category": "道具"
+  },
+  "Visor": {
+    "zh": "面罩",
+    "category": "道具"
+  },
+  "Projection Stone": {
+    "zh": "投影石",
+    "category": "道具"
+  },
+  "Warp Core": {
+    "zh": "躍遷核心",
+    "category": "道具"
+  },
+  "Warp": {
+    "zh": "躍遷",
+    "category": "概念"
+  },
+  "Oxygen Tank": {
+    "zh": "氧氣槽",
+    "category": "道具"
+  },
+  "Headlights": {
+    "zh": "前照燈",
+    "category": "道具"
+  },
+  "Vitals": {
+    "zh": "生命值",
+    "category": "概念"
+  },
+  "Loop": {
+    "zh": "循環",
+    "category": "概念"
+  },
+  "Velocity Match": {
+    "zh": "速度同步",
+    "category": "概念"
+  },
+  "White Hole": {
+    "zh": "白洞",
+    "category": "概念"
+  },
+  "Black Hole": {
+    "zh": "黑洞",
+    "category": "概念"
+  },
+  "The Attlerock": {
+    "zh": "艾特洛岩",
+    "category": "星球"
+  },
+  "Hollow's Lantern": {
+    "zh": "空心燈",
+    "category": "星球"
+  },
+  "Ghost Matter": {
+    "zh": "幽物質",
+    "category": "概念"
+  },
+  "exotic matter": {
+    "zh": "外來物質",
+    "category": "概念"
+  },
+  "Ship Log": {
+    "zh": "飛船日誌",
+    "category": "概念"
+  },
+  "The Stranger": {
+    "zh": "陌生者",
+    "category": "地點"
+  },
+  "The Prisoner": {
+    "zh": "囚徒",
+    "category": "人物"
+  },
+  "Artifact": {
+    "zh": "神器",
+    "category": "道具"
+  },
+  "Lantern": {
+    "zh": "提燈",
+    "category": "道具"
+  },
+  "Slide Reel": {
+    "zh": "幻燈片捲盤",
+    "category": "道具"
+  },
+  "Hourglass Twins": {
+    "zh": "沙漏雙星",
+    "category": "星球"
+  },
+  "Ash Twin": {
+    "zh": "白灰子星",
+    "category": "星球"
+  },
+  "Ember Twin": {
+    "zh": "紅燼子星",
+    "category": "星球"
+  },
+  "Timber Hearth": {
+    "zh": "木爐星",
+    "category": "星球"
+  },
+  "Giant's Deep": {
+    "zh": "深巨星",
+    "category": "星球"
+  },
+  "Brittle Hollow": {
+    "zh": "碎空星",
+    "category": "星球"
+  },
+  "Dark Bramble": {
+    "zh": "黑棘星",
+    "category": "星球"
+  },
+  "Sun Station": {
+    "zh": "太陽站",
+    "category": "地點"
+  },
+  "Quantum Moon": {
+    "zh": "量子衛星",
+    "category": "星球"
+  },
+  "Gabbro": {
+    "zh": "加布羅",
+    "category": "人物"
+  },
+  "Feldspar": {
+    "zh": "費爾德斯巴",
+    "category": "人物"
+  },
+  "Riebeck": {
+    "zh": "瑞貝克",
+    "category": "人物"
+  },
+  "Chert": {
+    "zh": "切特",
+    "category": "人物"
+  },
+  "Slate": {
+    "zh": "石雷特",
+    "category": "人物"
+  },
+  "Esker": {
+    "zh": "厄斯克",
+    "category": "人物"
+  },
+  "Solanum": {
+    "zh": "索拉農",
+    "category": "人物"
+  },
+  "Din": {
+    "zh": "迪恩",
+    "category": "人物"
+  },
+  "Poke": {
+    "zh": "珀克",
+    "category": "人物"
+  },
+  "Pye": {
+    "zh": "派伊",
+    "category": "人物"
+  },
+  "Yarrow": {
+    "zh": "亞羅",
+    "category": "人物"
+  },
+  "Coleus": {
+    "zh": "柯里烏斯",
+    "category": "人物"
+  },
+  "Melorae": {
+    "zh": "梅洛瑞",
+    "category": "人物"
+  },
+  "Ramie": {
+    "zh": "拉米",
+    "category": "人物"
+  },
+  "Clary": {
+    "zh": "克萊瑞",
+    "category": "人物"
+  },
+  "Cassava": {
+    "zh": "卡薩瓦",
+    "category": "人物"
+  },
+  "Cycad": {
+    "zh": "賽卡德",
+    "category": "人物"
+  },
+  "Hornfels": {
+    "zh": "霍恩費斯",
+    "category": "人物"
+  },
+  "Tektite": {
+    "zh": "鐵克泰",
+    "category": "人物"
+  },
+  "Gossan": {
+    "zh": "古薩",
+    "category": "人物"
+  },
+  "Filix": {
+    "zh": "菲利斯",
+    "category": "人物"
+  },
+  "Hal": {
+    "zh": "哈爾",
+    "category": "人物"
+  },
+  "Conoy": {
+    "zh": "柯諾伊",
+    "category": "人物"
+  },
+  "Black Hole Forge": {
+    "zh": "黑洞熔爐",
+    "category": "地點"
+  },
+  "Escape Pod": {
+    "zh": "逃生艙",
+    "category": "道具"
+  },
+  "Construction Yard": {
+    "zh": "建造場",
+    "category": "地點"
+  },
+  "Annona": {
+    "zh": "安諾納",
+    "category": "人物"
+  },
+  "Root": {
+    "zh": "露特",
+    "category": "人物"
+  },
+  "Thatch": {
+    "zh": "塔奇",
+    "category": "人物"
+  },
+  "Spire": {
+    "zh": "史派爾",
+    "category": "人物"
+  },
+  "Lami": {
+    "zh": "拉密",
+    "category": "人物"
+  },
+  "Plume": {
+    "zh": "普呂姆",
+    "category": "人物"
+  },
+  "Idaea": {
+    "zh": "伊黛雅",
+    "category": "人物"
+  },
+  "Avens": {
+    "zh": "艾文斯",
+    "category": "人物"
+  },
+  "Mitis": {
+    "zh": "米蒂斯",
+    "category": "人物"
+  },
+  "Oeno": {
+    "zh": "奧伊諾",
+    "category": "人物"
+  },
+  "Ilex": {
+    "zh": "伊萊克斯",
+    "category": "人物"
+  },
+  "Bells": {
+    "zh": "貝爾斯",
+    "category": "人物"
+  },
+  "Laevi": {
+    "zh": "拉艾維",
+    "category": "人物"
+  },
+  "Taget": {
+    "zh": "塔傑特",
+    "category": "人物"
+  },
+  "Rhus": {
+    "zh": "魯斯",
+    "category": "人物"
+  },
+  "Tuff": {
+    "zh": "塔夫",
+    "category": "人物"
+  },
+  "Phlox": {
+    "zh": "菲羅克斯",
+    "category": "人物"
+  },
+  "wandering moon": {
+    "zh": "漫遊衛星",
+    "category": "概念"
+  },
+  "quantum shard": {
+    "zh": "量子碎片",
+    "category": "概念"
+  },
+  "gravity cannon": {
+    "zh": "重力砲",
+    "category": "道具"
+  },
+  "shuttle": {
+    "zh": "穿梭機",
+    "category": "道具"
+  },
+  "astral body": {
+    "zh": "天體",
+    "category": "概念"
+  },
+  "warp tower": {
+    "zh": "躍遷塔",
+    "category": "地點"
+  },
+  "warp window": {
+    "zh": "躍遷窗口",
+    "category": "概念"
+  },
+  "warp platform": {
+    "zh": "躍遷平台",
+    "category": "道具"
+  },
+  "black hole core": {
+    "zh": "黑洞核心",
+    "category": "道具"
+  },
+  "white hole core": {
+    "zh": "白洞核心",
+    "category": "道具"
+  },
+  "warp receiver": {
+    "zh": "躍遷接收器",
+    "category": "道具"
+  },
+  "advanced warp core": {
+    "zh": "進階躍遷核心",
+    "category": "道具"
+  },
+  "High Energy Lab": {
+    "zh": "高能實驗室",
+    "category": "地點"
+  },
+  "boarding area": {
+    "zh": "登船區",
+    "category": "地點"
+  },
+  "White Hole Station": {
+    "zh": "白洞站",
+    "category": "地點"
+  },
+  "Giant's Deep tower": {
+    "zh": "深巨星塔",
+    "category": "地點"
+  },
+  "Timber Hearth tower": {
+    "zh": "木爐星塔",
+    "category": "地點"
+  },
+  "central chamber": {
+    "zh": "中央室",
+    "category": "地點"
+  },
+  "Tower of Quantum Knowledge": {
+    "zh": "量子知識塔",
+    "category": "地點"
+  },
+  "Fossil Fish Cave": {
+    "zh": "化石魚洞穴",
+    "category": "地點"
+  },
+  "Anglerfish Overlook": {
+    "zh": "鮟鱇魚觀景台",
+    "category": "地點"
+  },
+  "Stepping Stone Cave": {
+    "zh": "墊腳石洞穴",
+    "category": "地點"
+  },
+  "comet": {
+    "zh": "彗星",
+    "category": "概念"
+  },
+  "Mining site": {
+    "zh": "採礦場",
+    "category": "地點"
+  },
+  "Sun tower": {
+    "zh": "太陽塔",
+    "category": "地點"
+  },
+  "Statue Island": {
+    "zh": "雕像島",
+    "category": "地點"
+  },
+  "probe": {
+    "zh": "探測器",
+    "category": "道具"
+  },
+  "Nomai mask": {
+    "zh": "挪麥人面具",
+    "category": "道具"
+  },
+  "radio tower": {
+    "zh": "無線電塔",
+    "category": "地點"
+  },
+  "deep space satellite": {
+    "zh": "深空衛星",
+    "category": "地點"
+  },
+  "festival": {
+    "zh": "慶典",
+    "category": "概念"
+  },
+  "envoy": {
+    "zh": "特使",
+    "category": "概念"
+  },
+  "clan": {
+    "zh": "族",
+    "category": "概念"
+  },
+  "shrine": {
+    "zh": "神龕",
+    "category": "地點"
+  },
+  "pilgrimage": {
+    "zh": "朝聖",
+    "category": "概念"
+  },
+  "fossil fish": {
+    "zh": "化石魚",
+    "category": "概念"
+  },
+  "time loop": {
+    "zh": "時間循環",
+    "category": "概念"
+  },
+  "campfire": {
+    "zh": "營火",
+    "category": "道具"
+  },
+  "cyclone": {
+    "zh": "氣旋",
+    "category": "概念"
+  },
+  "anglerfish": {
+    "zh": "鮟鱇魚",
+    "category": "生物"
+  },
+  "ship (player)": {
+    "zh": "太空船（玩家的船；Vessel 才是飛船）",
+    "category": "道具"
+  },
+  "geyser": {
+    "zh": "間歇泉",
+    "category": "概念"
+  },
+  "sandfall": {
+    "zh": "沙瀑",
+    "category": "概念"
+  },
+  "Sun": {
+    "zh": "太陽",
+    "category": "星球"
+  },
+  "Suppose...": {
+    "zh": "不妨假設（挪麥語慣用句式）",
+    "category": "句式"
+  },
+  "Hypothesis:": {
+    "zh": "假說：（挪麥語慣用句式）",
+    "category": "句式"
+  },
+  "Of note:": {
+    "zh": "請注意：（挪麥語慣用句式）",
+    "category": "句式"
+  },
+  "My gratitude": {
+    "zh": "感謝（挪麥語慣用句式）",
+    "category": "句式"
+  },
+  "Feldspar pronouns": {
+    "zh": "費爾德斯巴以「他」稱呼（原文 they/them）",
+    "category": "備註"
+  },
+  "Riebeck pronouns": {
+    "zh": "瑞貝克以「他」稱呼或避開代名詞（原文 they/them）",
+    "category": "備註"
+  },
+  "forge": {
+    "zh": "熔爐",
+    "category": "地點"
+  },
+  "ore": {
+    "zh": "礦石",
+    "category": "概念"
+  },
+  "alignment point": {
+    "zh": "對齊點",
+    "category": "概念"
+  },
+  "Mica": {
+    "zh": "米卡",
+    "category": "人物"
+  },
+  "Outer Wilds Ventures": {
+    "zh": "星際拓荒探險隊",
+    "category": "組織"
+  },
+  "Outer Wilds": {
+    "zh": "星際拓荒",
+    "category": "概念"
+  },
+  "Ol’ Spacey": {
+    "zh": "太空老兄",
+    "category": "暱稱"
+  },
+  "launch codes": {
+    "zh": "發射密碼",
+    "category": "概念"
+  },
+  "observatory": {
+    "zh": "天文台",
+    "category": "地點"
+  },
+  "museum": {
+    "zh": "博物館",
+    "category": "地點"
+  },
+  "autopilot": {
+    "zh": "自動駕駛",
+    "category": "概念"
+  },
+  "retro rockets": {
+    "zh": "反向火箭",
+    "category": "道具"
+  },
+  "supernova": {
+    "zh": "超新星",
+    "category": "概念"
+  },
+  "marshmallow": {
+    "zh": "棉花糖",
+    "category": "道具"
+  },
+  "zero-g cave": {
+    "zh": "無重力洞穴",
+    "category": "地點"
+  },
+  "ground control": {
+    "zh": "地面管制中心",
+    "category": "概念"
+  },
+  "time buddy/pal": {
+    "zh": "時間夥伴／時間老友（加布羅對玩家暱稱）",
+    "category": "暱稱"
+  },
+  "memory-friend": {
+    "zh": "記憶小夥伴（加布羅語）",
+    "category": "暱稱"
+  },
+  "Gabbro Relaxation Scale": {
+    "zh": "加布羅放鬆指數",
+    "category": "暱稱"
+  },
+  "statue (Nomai)": {
+    "zh": "（挪麥）雕像",
+    "category": "道具"
+  },
+  "launch day": {
+    "zh": "發射日",
+    "category": "概念"
+  },
+  "gravity crystal": {
+    "zh": "重力水晶",
+    "category": "道具"
+  },
+  "hatchling": {
+    "zh": "小毛頭（爐星人對晚輩暱稱）",
+    "category": "暱稱"
+  },
+  "Daz": {
+    "zh": "達茲",
+    "category": "人物"
+  },
+  "Privet": {
+    "zh": "普利韋",
+    "category": "人物"
+  },
+  "Bur": {
+    "zh": "布爾",
+    "category": "人物"
+  },
+  "Southern Observatory": {
+    "zh": "南方天文台",
+    "category": "地點"
+  },
+  "Eye signal locator": {
+    "zh": "眼訊號定位器",
+    "category": "道具"
+  },
+  "Quantum Moon locator": {
+    "zh": "量子衛星定位器",
+    "category": "道具"
+  },
+  "projection pool": {
+    "zh": "投影池",
+    "category": "道具"
+  },
+  "Dark Bramble seed": {
+    "zh": "黑棘星種子",
+    "category": "概念"
+  },
+  "vine": {
+    "zh": "藤蔓",
+    "category": "概念"
+  },
+  "jellyfish": {
+    "zh": "水母",
+    "category": "生物"
+  },
+  "ring world": {
+    "zh": "環形世界",
+    "category": "地點"
+  },
+  "scout tracker": {
+    "zh": "探測球追蹤器",
+    "category": "道具"
+  },
+  "Stars above": {
+    "zh": "滿天星辰啊（爐星人感嘆語）",
+    "category": "句式"
+  },
+  "Secca": {
+    "zh": "瑟卡",
+    "category": "人物"
+  },
+  "Escall": {
+    "zh": "艾斯卡爾",
+    "category": "人物"
+  },
+  "Canna": {
+    "zh": "坎納",
+    "category": "人物"
+  },
+  "Bromi": {
+    "zh": "布羅米",
+    "category": "人物"
+  },
+  "Clem": {
+    "zh": "克萊姆",
+    "category": "人物"
+  },
+  "Hyssop": {
+    "zh": "海索普",
+    "category": "人物"
+  },
+  "Neem": {
+    "zh": "尼姆",
+    "category": "人物"
+  },
+  "Mallow": {
+    "zh": "馬洛",
+    "category": "人物"
+  },
+  "phantom moon": {
+    "zh": "幻影衛星",
+    "category": "概念"
+  },
+  "Sunless City": {
+    "zh": "無日之城",
+    "category": "地點"
+  },
+  "Hanging City": {
+    "zh": "懸城",
+    "category": "地點"
+  },
+  "Gloaming Galaxy": {
+    "zh": "暮光星系",
+    "category": "地點"
+  },
+  "Blackrock (star system)": {
+    "zh": "黑岩星系",
+    "category": "地點"
+  },
+  "Bright Spark (star system)": {
+    "zh": "明火星系",
+    "category": "地點"
+  },
+  "Statue Workshop": {
+    "zh": "雕像工坊",
+    "category": "地點"
+  },
+  "beacon": {
+    "zh": "信標",
+    "category": "道具"
+  },
+  "memory statue": {
+    "zh": "記憶雕像",
+    "category": "道具"
+  },
+  "Keek": {
+    "zh": "基克",
+    "category": "人物"
+  },
+  "Kousa": {
+    "zh": "寇薩",
+    "category": "人物"
+  },
+  "Foli": {
+    "zh": "弗利",
+    "category": "人物"
+  },
+  "volcanic moon": {
+    "zh": "火山衛星",
+    "category": "概念"
+  },
+  "Lakebed Cave": {
+    "zh": "湖床洞穴",
+    "category": "地點"
+  },
+  "littlefish": {
+    "zh": "小魚（孩子遊戲用語）",
+    "category": "概念"
+  },
+  "Eye Shrine": {
+    "zh": "眼之神龕",
+    "category": "地點"
+  },
+  "distress signal": {
+    "zh": "求救訊號",
+    "category": "概念"
+  },
+  "northern glacier": {
+    "zh": "北方冰川",
+    "category": "地點"
+  },
+  "Marl": {
+    "zh": "馬爾",
+    "category": "人物"
+  },
+  "Porphy": {
+    "zh": "波菲",
+    "category": "人物"
+  },
+  "Gneiss": {
+    "zh": "奈斯",
+    "category": "人物"
+  },
+  "Crossroads": {
+    "zh": "十字路口",
+    "category": "地點"
+  },
+  "Control Module": {
+    "zh": "控制模組",
+    "category": "地點"
+  },
+  "Launch Module": {
+    "zh": "發射模組",
+    "category": "地點"
+  },
+  "Probe Tracking Module": {
+    "zh": "探測器追蹤模組",
+    "category": "地點"
+  },
+  "Little Scout": {
+    "zh": "小探測球",
+    "category": "道具"
+  },
+  "jetpack": {
+    "zh": "噴射背包",
+    "category": "道具"
+  },
+  "banjo": {
+    "zh": "斑鳩琴",
+    "category": "道具"
+  },
+  "harmonica": {
+    "zh": "口琴",
+    "category": "道具"
+  },
+  "space cadet": {
+    "zh": "太空小子（奈斯對玩家暱稱）",
+    "category": "暱稱"
+  },
+  "launch pad": {
+    "zh": "發射台",
+    "category": "地點"
+  },
+  "scroll wall": {
+    "zh": "卷軸牆",
+    "category": "道具"
+  },
+  "traveler": {
+    "zh": "旅人",
+    "category": "概念"
+  },
+  "Rutile": {
+    "zh": "魯泰爾（村長）",
+    "category": "人物"
+  },
+  "Spinel": {
+    "zh": "史賓奈",
+    "category": "人物"
+  },
+  "the Good Stuff": {
+    "zh": "「好料的」（波菲的樹汁酒）",
+    "category": "暱稱"
+  },
+  "sap wine": {
+    "zh": "樹汁酒",
+    "category": "道具"
+  },
+  "Youngbark Crater": {
+    "zh": "幼樹皮坑",
+    "category": "地點"
+  },
+  "Geyser Mountains": {
+    "zh": "間歇泉山",
+    "category": "地點"
+  },
+  "Quantum Grove": {
+    "zh": "量子樹叢",
+    "category": "地點"
+  },
+  "tree keeper": {
+    "zh": "樹木管理員",
+    "category": "概念"
+  },
+  "mayor": {
+    "zh": "村長",
+    "category": "概念"
+  },
+  "Tephra": {
+    "zh": "泰弗拉",
+    "category": "人物"
+  },
+  "Galena": {
+    "zh": "嘉勒納",
+    "category": "人物"
+  },
+  "Moraine": {
+    "zh": "莫瑞恩",
+    "category": "人物"
+  },
+  "Arkose": {
+    "zh": "阿科斯",
+    "category": "人物"
+  },
+  "The Interloper": {
+    "zh": "闖入者",
+    "category": "星球"
+  },
+  "Twilight Twin": {
+    "zh": "暮光子星（白灰子星別稱）",
+    "category": "星球"
+  },
+  "Meltwater District": {
+    "zh": "融水區",
+    "category": "地點"
+  },
+  "School District": {
+    "zh": "學區",
+    "category": "地點"
+  },
+  "Black Hole Forge District": {
+    "zh": "黑洞熔爐區",
+    "category": "地點"
+  },
+  "Gravity Crystal Workshop": {
+    "zh": "重力水晶工坊",
+    "category": "地點"
+  },
+  "Lower Crossroads": {
+    "zh": "下層十字路口",
+    "category": "地點"
+  },
+  "geyser pool": {
+    "zh": "間歇泉池",
+    "category": "地點"
+  },
+  "mallows": {
+    "zh": "棉花糖",
+    "category": "道具"
+  },
+  "xenoarchaeology": {
+    "zh": "異星考古",
+    "category": "概念"
+  },
+  "Lunar Outpost": {
+    "zh": "月面前哨站",
+    "category": "地點"
+  },
+  "mini map": {
+    "zh": "小地圖",
+    "category": "概念"
+  },
+  "River Lowlands": {
+    "zh": "河流低地",
+    "category": "地點"
+  },
+  "Cinder Isles": {
+    "zh": "燼島群",
+    "category": "地點"
+  },
+  "Hidden Gorge": {
+    "zh": "隱密峽谷",
+    "category": "地點"
+  },
+  "Abandoned Temple": {
+    "zh": "廢棄神殿",
+    "category": "地點"
+  },
+  "Damaged Laboratory": {
+    "zh": "受損實驗室",
+    "category": "地點"
+  },
+  "Reservoir": {
+    "zh": "蓄水湖",
+    "category": "地點"
+  },
+  "Island Tower": {
+    "zh": "島塔",
+    "category": "地點"
+  },
+  "Vault": {
+    "zh": "密庫",
+    "category": "地點"
+  },
+  "cloaking field": {
+    "zh": "隱形力場",
+    "category": "概念"
+  },
+  "Nomai Grave": {
+    "zh": "挪麥人之墓",
+    "category": "地點"
+  },
+  "Quantum Fluctuations (frequency)": {
+    "zh": "量子漲落",
+    "category": "概念"
+  },
+  "Outer Wilds Ventures (frequency)": {
+    "zh": "星際拓荒探險隊（頻率）",
+    "category": "概念"
+  },
+  "projection (slide)": {
+    "zh": "投影",
+    "category": "概念"
+  },
+  "dream world": {
+    "zh": "夢境世界",
+    "category": "地點"
+  }
+}
