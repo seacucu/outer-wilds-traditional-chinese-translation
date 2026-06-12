@@ -38,8 +38,7 @@
 
 ## 翻譯說明
 
-- **2.0 起**：自英文原文全文重譯，以統一術語表維持譯名一致性，並經人工逐句校對。
-- **1.x**：基於 puffbro 的版本，以[繁化姬](https://zhconvert.org/)簡繁轉換後人工校正。
+全文自英文原文直接翻譯，以統一術語表維持譯名一致性，並經人工逐句校對。
 
 主要特色：
 
@@ -51,9 +50,6 @@
 ## 致謝
 
 - 語言框架：[xen-42/outer-wilds-localization-utility](https://github.com/xen-42/outer-wilds-localization-utility)
-- 原始繁中翻譯：[puffbro/outer-wilds-traditional-chinese-translation](https://github.com/puffbro/outer-wilds-traditional-chinese-translation)
-- 簡繁轉換工具：[繁化姬](https://zhconvert.org/)
-- 韓文翻譯原始碼：[milesand](https://github.com/milesand)（puffbro 的原始來源）
 
 ## License
 
@@ -95,8 +91,7 @@ After installation, launch the game and select「正體中文」under Audio & La
 
 ## Translation Notes
 
-- **Since 2.0**: fully retranslated from the English original, with a glossary ensuring consistent terminology, reviewed sentence by sentence.
-- **1.x**: based on puffbro's translation, converted via [zhconvert.org](https://zhconvert.org/) and manually corrected.
+Translated directly from the English original, with a glossary ensuring consistent terminology, reviewed sentence by sentence.
 
 Highlights:
 
@@ -107,9 +102,6 @@ Highlights:
 ## Credits
 
 - Localization framework: [xen-42/outer-wilds-localization-utility](https://github.com/xen-42/outer-wilds-localization-utility)
-- Original Traditional Chinese translation: [puffbro/outer-wilds-traditional-chinese-translation](https://github.com/puffbro/outer-wilds-traditional-chinese-translation)
-- Simplified-to-Traditional converter: [zhconvert.org](https://zhconvert.org/)
-- Korean translation source: [milesand](https://github.com/milesand) (puffbro's original base)
 
 ## License
 
