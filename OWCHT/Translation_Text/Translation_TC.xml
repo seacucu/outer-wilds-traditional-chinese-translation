@@ -1252,11 +1252,11 @@
   </entry>
   <entry>
     <key>POKE: Of note: This gives us a slightly longer warp window. I imagine this window will last roughly several seconds.</key>
-    <value>珀克：請注意：這讓我們的躍遷窗口稍微長一些。我估計這段窗口大約能持續數秒。</value>
+    <value>珀克：請注意：這樣一來，能躍遷的時機就寬裕一些。我估計大約有數秒可用。</value>
   </entry>
   <entry>
     <key>POKE: As such, any Nomai stepping onto the warp platform during the active window will be immediately warped. We will need to be careful around the platform for the duration of the time it’s active to avoid accidental transportation.</key>
-    <value>珀克：因此，窗口開啟期間，任何踏上躍遷平台的挪麥人都會立刻被傳送。平台啟動期間，我們在它附近得格外當心，以免被意外傳送。</value>
+    <value>珀克：因此，挪麥人只要抓準躍遷時機踏上躍遷平台，就能立刻觸發傳送。平台啟動期間，我們在它附近得格外當心，以免被意外傳送。</value>
   </entry>
   <entry>
     <key>CLARY: More accurately, I enjoy precision as much as the next Nomai, provided the next Nomai is not Poke.</key>
@@ -1452,7 +1452,7 @@
   </entry>
   <entry>
     <key>POKE: Every warp tower is tuned to a specific astral body. A tower's warp can only be used during the brief window when the tower is aligned with its corresponding astral body (in this case, &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;).</key>
-    <value>珀克：每座躍遷塔都校準到一個特定天體。只有在塔與對應天體對齊的短暫窗口期間（這座塔對應的是&lt;color=lightblue&gt;碎空星&lt;/color&gt;），塔的躍遷才能使用。</value>
+    <value>珀克：每座躍遷塔都校準到一個特定天體。只有趁塔與對應天體對齊的短暫時機（這座塔對應的是&lt;color=lightblue&gt;碎空星&lt;/color&gt;），才能透過塔觸發躍遷。</value>
   </entry>
   <entry>
     <key>You must be standing on the warp platform on the floor during this alignment to be warped.</key>
@@ -2348,7 +2348,7 @@
   </entry>
   <entry>
     <key>SignIf you’ve enjoyed your time with Outer Wilds, please consider supporting our planned museum expansion.</key>
-    <value>如果您喜歡與星際拓荒共度的時光，請考慮支持我們規劃中的博物館擴建。</value>
+    <value>如果您喜歡與《Outer Wilds》共度的時光，請考慮支持我們規劃中的博物館擴建。</value>
   </entry>
   <entry>
     <key>SignOur quest to explore the furthest reaches of our solar system wouldn’t be possible without generous visitors like you! We thank you profusely for your support, and we hope to see you again soon.</key>
@@ -2380,7 +2380,7 @@
   </entry>
   <entry>
     <key>SlateScientist1AYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>你&lt;i&gt;確定&lt;/i&gt;反向火箭修好了？</value>
+    <value>你&lt;i&gt;確定&lt;/i&gt;反推火箭修好了？</value>
   </entry>
   <entry>
     <key>Scientist1BHey, you ready to get this thing off the ground? Ship’s all fueled and ready to go.</key>
@@ -2400,7 +2400,7 @@
   </entry>
   <entry>
     <key>SlateScientist1BYou’re &lt;i&gt;sure&lt;/i&gt; you fixed the retro rockets?</key>
-    <value>你&lt;i&gt;確定&lt;/i&gt;反向火箭修好了？</value>
+    <value>你&lt;i&gt;確定&lt;/i&gt;反推火箭修好了？</value>
   </entry>
   <entry>
     <key>ScientistAnswer11Whoa, bad dream or something? You still look half asleep, but that’s a negative on being deceased.</key>
@@ -2472,7 +2472,7 @@
   </entry>
   <entry>
     <key>ScientistAnswer25Oh, and Gossan says they have the zero-g chamber set up if you want a refresher on making ship repairs in space. Not saying you &lt;i&gt;have&lt;/i&gt; to, but uh, it’d help get Gossan off my back if you did.</key>
-    <value>喔，還有古薩說無重力艙已經架好了，你想複習太空修船的話可以去練。不是說你&lt;i&gt;非去&lt;/i&gt;不可啦，呃，但你去了，古薩就不會一直來煩我了。</value>
+    <value>喔，還有古薩說零重力艙已經架好了，你想複習太空修船的話可以去練。不是說你&lt;i&gt;非去&lt;/i&gt;不可啦，呃，但你去了，古薩就不會一直來煩我了。</value>
   </entry>
   <entry>
     <key>ScientistAnswer21Hornfels has the launch codes. Should be up at the observatory, like usual. I’m starting to think they live there.</key>
@@ -2572,7 +2572,7 @@
   </entry>
   <entry>
     <key>SlateScientist5I keep getting killed by ghost matter.</key>
-    <value>我一直被幽物質弄死。</value>
+    <value>我一直被靈質弄死。</value>
   </entry>
   <entry>
     <key>SlateScientist5The sun is going to go supernova, by the way.</key>
@@ -3196,7 +3196,7 @@
   </entry>
   <entry>
     <key>FoundSomething7A brand-new astronaut, and you’re already a pro adventurer! Outer Wilds Ventures is in good hands with you, I can tell. The flight program is &lt;i&gt;going&lt;/i&gt; places!</key>
-    <value>菜鳥太空人一個，卻已經是冒險老手了！我看得出來，星際拓荒探險隊交在你手上錯不了。這個飛行計劃&lt;i&gt;前途無量&lt;/i&gt;！</value>
+    <value>菜鳥太空人一個，卻已經是冒險老手了！我看得出來，星際拓荒隊交在你手上錯不了。這個飛行計劃&lt;i&gt;前途無量&lt;/i&gt;！</value>
   </entry>
   <entry>
     <key>FoundSomething6Nothing you want to share with me? Sounds like you’d better get out there and start exploring!</key>
@@ -3224,7 +3224,7 @@
   </entry>
   <entry>
     <key>Sign...Aaand we’re recording! Ahem. It’s been two days since the launch of the deep space satellite, and I’m about to view the first batch of photos. Let the record show that on this historic day, Outer Wilds Ventures has—</key>
-    <value>……好——開始錄音！呃哼。深空衛星發射至今已兩天，我即將檢視第一批照片。請記錄在案：在這歷史性的一天，星際拓荒探險隊——</value>
+    <value>……好——開始錄音！呃哼。深空衛星發射至今已兩天，我即將檢視第一批照片。請記錄在案：在這歷史性的一天，星際拓荒隊——</value>
   </entry>
   <entry>
     <key>SignAaaah! They’re printing, they’re printing! Here they come!</key>
@@ -4116,7 +4116,7 @@
   </entry>
   <entry>
     <key>FILIX: Fortunately, the &lt;color=lightblue&gt;Attlerock&lt;/color&gt;’s lack of atmosphere will make calibration simple. After all this time, I’m thrilled to finally resume our search!</key>
-    <value>菲利斯：幸運的是，&lt;color=lightblue&gt;艾特洛岩&lt;/color&gt;沒有大氣層，校準會很簡單。隔了這麼久，終於能重啟我們的搜尋，我太激動了！</value>
+    <value>菲利斯：幸運的是，&lt;color=lightblue&gt;廢岩星&lt;/color&gt;沒有大氣層，校準會很簡單。隔了這麼久，終於能重啟我們的搜尋，我太激動了！</value>
   </entry>
   <entry>
     <key>Caution: You are about to access the core while the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; is active.</key>
@@ -4232,7 +4232,7 @@
   </entry>
   <entry>
     <key>PYE: Friends visiting from the &lt;color=orange&gt;Hanging City&lt;/color&gt;, we are planning the &lt;color=orange&gt;Ash Twin Project&lt;/color&gt; at the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt;’s equator.</key>
-    <value>派伊：來自&lt;color=orange&gt;懸城&lt;/color&gt;的朋友們，我們正在&lt;color=lightblue&gt;紅燼子星&lt;/color&gt;赤道的&lt;color=orange&gt;高能實驗室&lt;/color&gt;規劃&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;。</value>
+    <value>派伊：來自&lt;color=orange&gt;懸吊城&lt;/color&gt;的朋友們，我們正在&lt;color=lightblue&gt;紅燼子星&lt;/color&gt;赤道的&lt;color=orange&gt;高能實驗室&lt;/color&gt;規劃&lt;color=orange&gt;灰燼雙星計劃&lt;/color&gt;。</value>
   </entry>
   <entry>
     <key>CONOY: I became lost on &lt;color=lightblue&gt;Ember Twin&lt;/color&gt; (my gratitude that Ramie found me!), but the &lt;color=orange&gt;High Energy Lab&lt;/color&gt; is the building with the large solar panels. I’m suprised I didn’t see it!</key>
@@ -4460,7 +4460,7 @@
   </entry>
   <entry>
     <key>PRIVET: The locator we built on the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; and the new, more sensitive locator we built here were both unable to detect any trace of the &lt;color=lightblue&gt;Eye&lt;/color&gt;’s signal.</key>
-    <value>普利韋：我們在&lt;color=lightblue&gt;艾特洛岩&lt;/color&gt;蓋的定位器，和後來在這裡蓋的更靈敏的新定位器，都偵測不到&lt;color=lightblue&gt;眼&lt;/color&gt;訊號的一絲蹤跡。</value>
+    <value>普利韋：我們在&lt;color=lightblue&gt;廢岩星&lt;/color&gt;蓋的定位器，和後來在這裡蓋的更靈敏的新定位器，都偵測不到&lt;color=lightblue&gt;眼&lt;/color&gt;訊號的一絲蹤跡。</value>
   </entry>
   <entry>
     <key>AVENS: Hypothesis: The &lt;color=lightblue&gt;Eye&lt;/color&gt; has stopped emitting its signal.</key>
@@ -5330,7 +5330,7 @@
   </entry>
   <entry>
     <key>SignI’d posit the &lt;color=lightblue&gt;Attlerock&lt;/color&gt; was hit with a piece of the planet that used to be where &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; now lies.</key>
-    <value>我推測，&lt;color=lightblue&gt;艾特洛岩&lt;/color&gt;是被一塊行星碎片砸中的——那顆行星原本就位於&lt;color=lightblue&gt;黑棘星&lt;/color&gt;現在的位置。</value>
+    <value>我推測，&lt;color=lightblue&gt;廢岩星&lt;/color&gt;是被一塊行星碎片砸中的——那顆行星原本就位於&lt;color=lightblue&gt;黑棘星&lt;/color&gt;現在的位置。</value>
   </entry>
   <entry>
     <key>SignTo follow up on — maybe there are more fragments of the old planet &lt;color=lightblue&gt;Dark Bramble&lt;/color&gt; destroyed on other astral bodies in the solar system?</key>
@@ -5430,15 +5430,15 @@
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures’ founding members. Clockwise from top left: Hornfels, Gossan, Slate, and Feldspar.</key>
-    <value>星際拓荒探險隊創始成員。左上起順時針：霍恩費斯、古薩、石雷特、費爾德斯巴。</value>
+    <value>星際拓荒隊創始成員。左上起順時針：霍恩費斯、古薩、石雷特、費爾德斯巴。</value>
   </entry>
   <entry>
     <key>SignDANGER! Inside this fence is a pocket of &lt;color=orange&gt;ghost matter&lt;/color&gt; - a strange and dangerous substance that’s invisible to the naked eyes. The good news is that you can detect &lt;color=orange&gt;ghost matter&lt;/color&gt; with a camera.</key>
-    <value>危險！圍欄內有一窩&lt;color=orange&gt;幽物質&lt;/color&gt;——一種肉眼看不見的奇異危險物質。好消息是，你可以用相機偵測&lt;color=orange&gt;幽物質&lt;/color&gt;。</value>
+    <value>危險！圍欄內有一窩&lt;color=orange&gt;靈質&lt;/color&gt;——一種肉眼看不見的奇異危險物質。好消息是，你可以用相機偵測&lt;color=orange&gt;靈質&lt;/color&gt;。</value>
   </entry>
   <entry>
     <key>SignMoving through &lt;color=orange&gt;ghost matter&lt;/color&gt; is uniquely painful and will probably kill you. Don’t complain to me if you hurt yourself fooling around.\\n- Hornfels</key>
-    <value>穿過&lt;color=orange&gt;幽物質&lt;/color&gt;會帶來獨一無二的劇痛，而且八成會要你的命。要是你貪玩弄傷自己，別來跟我哭。\\n——霍恩費斯</value>
+    <value>穿過&lt;color=orange&gt;靈質&lt;/color&gt;會帶來獨一無二的劇痛，而且八成會要你的命。要是你貪玩弄傷自己，別來跟我哭。\\n——霍恩費斯</value>
   </entry>
   <entry>
     <key>Gneiss</key>
@@ -5474,7 +5474,7 @@
   </entry>
   <entry>
     <key>ObservatoryThe observatory is up the path behind the waterfall. There are a couple of signs marking the way, but really, you just keep going up and then hook a right when you get to the zero-g cave.</key>
-    <value>天文台就在瀑布後面的山路上去。沿路有幾塊路牌，不過說白了，你就一直往上走，到無重力洞穴再右轉就到了。</value>
+    <value>天文台就在瀑布後面的山路上去。沿路有幾塊路牌，不過說白了，你就一直往上走，到零重力洞窟再右轉就到了。</value>
   </entry>
   <entry>
     <key>Gneiss3Oh, sure! I made all of their instruments, you know. Let me see... There’s Chert’s drums, Riebeck’s banjo, and Gabbro’s flute.</key>
@@ -5558,7 +5558,7 @@
   </entry>
   <entry>
     <key>Coach2But really, you’ll do fine out there. I’d worry more about that ship, if I were you. Hopefully that lunatic Slate at least fixed the retro rockets.</key>
-    <value>不過說真的，你在上面不會有問題的。我要是你，反而會擔心那艘船。但願石雷特那個瘋子至少把反向火箭修好了。</value>
+    <value>不過說真的，你在上面不會有問題的。我要是你，反而會擔心那艘船。但願石雷特那個瘋子至少把反推火箭修好了。</value>
   </entry>
   <entry>
     <key>Coach3Good. Everyone should be a bit nervous going into space. I got cocky during my first flight and nearly put a new crater in the moon.</key>
@@ -5598,11 +5598,11 @@
   </entry>
   <entry>
     <key>Coach7There’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-    <value>無重力洞穴裡架了一顆「衛星」——它絕對&lt;i&gt;不是&lt;/i&gt;一台壞掉的採礦設備——正等著修理。</value>
+    <value>零重力洞窟裡架了一顆「衛星」——它絕對&lt;i&gt;不是&lt;/i&gt;一台壞掉的採礦設備——正等著修理。</value>
   </entry>
   <entry>
     <key>Coach7If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>想做點最後的無重力練習，就搭升降梯下去進洞。不去也行，只要你有把握能在太空裡修船。</value>
+    <value>想做點最後的零重力練習，就搭升降梯下去進洞。不去也行，只要你有把握能在太空裡修船。</value>
   </entry>
   <entry>
     <key>GossanCoach7One repaired “satellite,” coming up!</key>
@@ -5614,11 +5614,11 @@
   </entry>
   <entry>
     <key>Coach8So listen, there’s a “satellite” — which is definitely &lt;i&gt;not&lt;/i&gt; just a piece of broken mining equipment — set up down in the zero-g cave and in need of repairs.</key>
-    <value>聽好，無重力洞穴裡架了一顆「衛星」——它絕對&lt;i&gt;不是&lt;/i&gt;一台壞掉的採礦設備——正等著修理。</value>
+    <value>聽好，零重力洞窟裡架了一顆「衛星」——它絕對&lt;i&gt;不是&lt;/i&gt;一台壞掉的採礦設備——正等著修理。</value>
   </entry>
   <entry>
     <key>Coach8If you’re looking for a little last-minute zero-g practice, head down the lift and into the cave. Or don’t, so long as you’re confident you can make ship repairs in space.</key>
-    <value>想做點最後的無重力練習，就搭升降梯下去進洞。不去也行，只要你有把握能在太空裡修船。</value>
+    <value>想做點最後的零重力練習，就搭升降梯下去進洞。不去也行，只要你有把握能在太空裡修船。</value>
   </entry>
   <entry>
     <key>GossanCoach8One repaired “satellite”, coming up!</key>
@@ -5642,11 +5642,11 @@
   </entry>
   <entry>
     <key>Coach10...Haha, go on, go make Outer Wilds Ventures proud.</key>
-    <value>……哈哈，去吧，讓星際拓荒探險隊以你為榮。</value>
+    <value>……哈哈，去吧，讓星際拓荒隊以你為榮。</value>
   </entry>
   <entry>
     <key>Coach11If you changed your mind about practicing ship repairs, head down the lift and into the zero-g cave.</key>
-    <value>改變主意想練修船的話，搭升降梯下去無重力洞穴就行。</value>
+    <value>改變主意想練修船的話，搭升降梯下去零重力洞窟就行。</value>
   </entry>
   <entry>
     <key>Coach11You just need to maneuver over to the “satellite” and repair each damaged area, same as you’ll be doing for your ship.</key>
@@ -5682,7 +5682,7 @@
   </entry>
   <entry>
     <key>SignHey! Come say hi to your old flight coach before your launch. I’ve got zero-g training set up if you want a refresher.\\n\\n-Gossan</key>
-    <value>嘿！發射前來跟你的老飛行教練打聲招呼吧。想複習的話，無重力訓練已經幫你架好了。\\n\\n——古薩</value>
+    <value>嘿！發射前來跟你的老飛行教練打聲招呼吧。想複習的話，零重力訓練已經幫你架好了。\\n\\n——古薩</value>
   </entry>
   <entry>
     <key>Friend1Hey, hey! So did you get a good look at that Nomai statue?</key>
@@ -5730,7 +5730,7 @@
   </entry>
   <entry>
     <key>Friend4Say, if you want to do a short trip to just get your space legs under you, you could check out the ruins on the Attlerock! I’d love to learn what those are.</key>
-    <value>對了，想先來趟短程飛行練練太空腿的話，可以去看看艾特洛岩上的遺跡！我超想知道那些是什麼。</value>
+    <value>對了，想先來趟短程飛行練練太空腿的話，可以去看看廢岩星上的遺跡！我超想知道那些是什麼。</value>
   </entry>
   <entry>
     <key>Friend5I mean, if you’re saying it happened, then... I guess maybe it did. But why?</key>
@@ -5958,7 +5958,7 @@
   </entry>
   <entry>
     <key>NewDirtI’m hoping to teach Esker to tap trees next time they return from the Attlerock. If they’ll bring me lunar sap, I can attempt moon wine!</key>
-    <value>我打算等厄斯克下次從艾特洛岩回來，教他採樹汁。只要他肯帶月球樹汁給我，我就能試釀月亮酒！</value>
+    <value>我打算等厄斯克下次從廢岩星回來，教他採樹汁。只要他肯帶月球樹汁給我，我就能試釀月亮酒！</value>
   </entry>
   <entry>
     <key>WhatsUpI’ve just finished sealing up another batch of sap wine for aging. I like to begin aging a batch on the day of a significant occasion, you know!</key>
@@ -6018,7 +6018,7 @@
   </entry>
   <entry>
     <key>RiebecksJournalBut wow, this place sure is something! Looks like the Hanging City is north from here. And east is a gravity cannon! I &lt;i&gt;definitely&lt;/i&gt; want to see that.</key>
-    <value>哇，這地方真不得了！懸城好像就在北邊。東邊是一座重力砲！那個我&lt;i&gt;一定&lt;/i&gt;要去看。</value>
+    <value>哇，這地方真不得了！懸吊城好像就在北邊。東邊是一座重力砲！那個我&lt;i&gt;一定&lt;/i&gt;要去看。</value>
   </entry>
   <entry>
     <key>RiebecksJournalAnd another thing - I’m detecting oxygen from somewhere below. Which is good, since I, uh, used up a lot of my supply screaming during the trip down from the surface.</key>
@@ -6090,7 +6090,7 @@
   </entry>
   <entry>
     <key>SkepticAnswer2By the way, good luck with those retro rockets.</key>
-    <value>對了，祝那些反向火箭好運。</value>
+    <value>對了，祝那些反推火箭好運。</value>
   </entry>
   <entry>
     <key>Mayor2Hey, what can I do for you?</key>
@@ -6602,7 +6602,7 @@
   </entry>
   <entry>
     <key>TuffScaredMiner1I’m getting some zero-g time in.</key>
-    <value>我來待一陣子無重力。</value>
+    <value>我來待一陣子零重力。</value>
   </entry>
   <entry>
     <key>TuffScaredMiner1Give me the dirt.</key>
@@ -6618,7 +6618,7 @@
   </entry>
   <entry>
     <key>TuffScaredMiner2Just getting in some zero-g time.</key>
-    <value>就是來泡一下無重力。</value>
+    <value>就是來泡一下零重力。</value>
   </entry>
   <entry>
     <key>TuffScaredMiner2Give me the dirt.</key>
@@ -6754,7 +6754,7 @@
   </entry>
   <entry>
     <key>TuffSpaceI needed a little more zero-g time.</key>
-    <value>我需要再泡一下無重力。</value>
+    <value>我需要再泡一下零重力。</value>
   </entry>
   <entry>
     <key>TuffSpaceGive me the dirt.</key>
@@ -6770,7 +6770,7 @@
   </entry>
   <entry>
     <key>Arkose1You know the patch of ghost matter inside this fence? Gossan said it used to be bigger when they were a hatchling. ’Cause ghost matter evaporates.</key>
-    <value>你知道圍欄裡那塊幽物質吧？古薩說他還是小毛頭的時候，那塊比現在大。因為幽物質會蒸發。</value>
+    <value>你知道圍欄裡那塊靈質吧？古薩說他還是小毛頭的時候，那塊比現在大。因為靈質會蒸發。</value>
   </entry>
   <entry>
     <key>Arkose1It just takes a su-&lt;Pause=1&gt;u-&lt;Pause=1&gt;u-&lt;Pause=1&gt;per long time to go away.</key>
@@ -6778,19 +6778,19 @@
   </entry>
   <entry>
     <key>Arkose1I hope there’s still ghost matter in the village when I’m a grown-up. Ghost matter is awesome!</key>
-    <value>真希望我長大的時候，村子裡還有幽物質。幽物質超讚的！</value>
+    <value>真希望我長大的時候，村子裡還有靈質。靈質超讚的！</value>
   </entry>
   <entry>
     <key>ArkoseArkose1Ghost matter is super cool. It’ll burn the heck out of you!</key>
-    <value>幽物質超酷的。它會把你燙到不要不要的！</value>
+    <value>靈質超酷的。它會把你燙到不要不要的！</value>
   </entry>
   <entry>
     <key>ArkoseArkose1You shouldn’t be throwing rocks in there — ghost matter is dangerous.</key>
-    <value>你不該往裡面丟石頭——幽物質很危險。</value>
+    <value>你不該往裡面丟石頭——靈質很危險。</value>
   </entry>
   <entry>
     <key>ArkoseArkose1You know ghost matter is how Tektite lost their foot, right?</key>
-    <value>你知道鐵克泰的腳就是被幽物質弄掉的吧？</value>
+    <value>你知道鐵克泰的腳就是被靈質弄掉的吧？</value>
   </entry>
   <entry>
     <key>Arkose2Yeah! I heard touching it hurts so bad it feels like your whole hand’s on fire!</key>
@@ -6798,7 +6798,7 @@
   </entry>
   <entry>
     <key>Arkose2Try not to walk into any in space, okay? That sounds bad and painful.</key>
-    <value>在太空盡量別走進幽物質裡，好嗎？聽起來又慘又痛。</value>
+    <value>在太空盡量別走進靈質裡，好嗎？聽起來又慘又痛。</value>
   </entry>
   <entry>
     <key>Arkose3Uhhh, obviously? That’s what makes it so &lt;i&gt;awesome&lt;/i&gt;? Geez, I’m not dumb enough to &lt;i&gt;touch&lt;/i&gt; it.</key>
@@ -6814,7 +6814,7 @@
   </entry>
   <entry>
     <key>Arkose5It’s cool that Little Scouts can detect ghost matter and all, but what would be &lt;i&gt;really&lt;/i&gt; cool is if the Little Scout could, like, shoot ghost matter at stuff. All &lt;i&gt;pew pew pew&lt;/i&gt;!</key>
-    <value>小探測球能偵測幽物質是很酷啦，但要是小探測球能，像是，把幽物質發射出去打東西，那才叫&lt;i&gt;真的&lt;/i&gt;酷。&lt;i&gt;咻咻咻&lt;/i&gt;那樣！</value>
+    <value>小探測球能偵測靈質是很酷啦，但要是小探測球能，像是，把靈質發射出去打東西，那才叫&lt;i&gt;真的&lt;/i&gt;酷。&lt;i&gt;咻咻咻&lt;/i&gt;那樣！</value>
   </entry>
   <entry>
     <key>SignThis anglerfish specimen was found attached to the landing gear of one of our ships that flew close to Dark Bramble. It appears well-suited to living in dark places with minimal atmosphere.</key>
@@ -6826,15 +6826,15 @@
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures, Timber Hearth’s first and only space program, was founded to explore the farthest reaches of our solar system.</key>
-    <value>星際拓荒探險隊是木爐星第一個、也是唯一一個太空計劃，旨在探索我們太陽系的最深處。</value>
+    <value>星際拓荒隊是木爐星第一個、也是唯一一個太空計劃，旨在探索我們太陽系的最深處。</value>
   </entry>
   <entry>
     <key>SignFeldspar was the first Hearthian to be intentionally launched into space. They completed the first orbit around Timber Hearth and later made the first of what would be many landings on our moon, the Attlerock.</key>
-    <value>費爾德斯巴是第一位被「刻意」發射上太空的爐星人。他完成了首次繞木爐星軌道飛行，後來又首度登陸我們的月亮艾特洛岩——此後又登陸了許多次。</value>
+    <value>費爾德斯巴是第一位被「刻意」發射上太空的爐星人。他完成了首次繞木爐星軌道飛行，後來又首度登陸我們的月亮廢岩星——此後又登陸了許多次。</value>
   </entry>
   <entry>
     <key>SignOuter Wilds Ventures was founded by Feldspar, Gossan, Slate, and Hornfels to explore a solar system at the end of the universe.</key>
-    <value>星際拓荒探險隊由費爾德斯巴、古薩、石雷特與霍恩費斯創立，旨在探索一個位於宇宙盡頭的太陽系。</value>
+    <value>星際拓荒隊由費爾德斯巴、古薩、石雷特與霍恩費斯創立，旨在探索一個位於宇宙盡頭的太陽系。</value>
   </entry>
   <entry>
     <key>Galena</key>
@@ -6994,7 +6994,7 @@
   </entry>
   <entry>
     <key>SignThe Nomai technology brought back from space by our astronauts has been a great boon to Outer Wilds Ventures, allowing us to modify expedition gear in exciting and useful ways.</key>
-    <value>太空人們從太空帶回的挪麥科技，對星際拓荒探險隊是一大福音，讓我們得以用令人興奮又實用的方式改裝探險裝備。</value>
+    <value>太空人們從太空帶回的挪麥科技，對星際拓荒隊是一大福音，讓我們得以用令人興奮又實用的方式改裝探險裝備。</value>
   </entry>
   <entry>
     <key>SignFor example, the Little Scout now boasts a warp retrieval capability that allows astronauts to recall their scouts almost instantly. This has dramatically reduced the number of scouts lost to the depths of space.</key>
@@ -7042,7 +7042,7 @@
   </entry>
   <entry>
     <key>RiebeckIntroI’m here to see the Hanging City. It’s always been my dream to see it with my own four eyes, ever since I was a hatchling.</key>
-    <value>我是來看懸城的。用自己的四隻眼睛親眼看看它，是我從小毛頭時期就有的夢想。</value>
+    <value>我是來看懸吊城的。用自己的四隻眼睛親眼看看它，是我從小毛頭時期就有的夢想。</value>
   </entry>
   <entry>
     <key>RiebeckIntroAn alien race lived in this solar system long before our species even existed! How could I &lt;i&gt;not&lt;/i&gt; want to see what their civilization was like?</key>
@@ -7118,7 +7118,7 @@
   </entry>
   <entry>
     <key>RiebeckExploreWhich is unfortunate, because uh, the most exciting stuff is all below the crust. Including the &lt;color=orange&gt;Hanging City&lt;/color&gt; — that’s just to the north. You can kinda see it from here.</key>
-    <value>這很可惜，因為，呃，最精彩的東西全在地殼下面。包括&lt;color=orange&gt;懸城&lt;/color&gt;——就在北邊。從這裡勉強看得到。</value>
+    <value>這很可惜，因為，呃，最精彩的東西全在地殼下面。包括&lt;color=orange&gt;懸吊城&lt;/color&gt;——就在北邊。從這裡勉強看得到。</value>
   </entry>
   <entry>
     <key>RiebeckExploreThere’s also this big dome on the south pole called the &lt;color=orange&gt;Southern Observatory&lt;/color&gt;. You can’t get inside from the surface — trust me, I tried — but if it’s like the rest of the Nomai structures here, there’s probably a path to it beneath the crust somewhere.</key>
@@ -7146,7 +7146,7 @@
   </entry>
   <entry>
     <key>RiebeckRiebeckLearnedI saw the Hanging City on Brittle Hollow.</key>
-    <value>我看到碎空星的懸城了。</value>
+    <value>我看到碎空星的懸吊城了。</value>
   </entry>
   <entry>
     <key>RiebeckRiebeckLearnedI saw the Sunless City on Ember Twin.</key>
@@ -7210,11 +7210,11 @@
   </entry>
   <entry>
     <key>RiebeckLearned_4You visited the Hanging City? Oh gosh, how was it? Was it amazing? Was it beautiful? ...Was it scary?</key>
-    <value>你去過懸城了？天啊，怎麼樣？壯觀嗎？美嗎？……可怕嗎？</value>
+    <value>你去過懸吊城了？天啊，怎麼樣？壯觀嗎？美嗎？……可怕嗎？</value>
   </entry>
   <entry>
     <key>RiebeckLearned_4The Hanging City is where the Nomai settled permanently on Brittle Hollow. It was their most advanced settlement here!</key>
-    <value>懸城是挪麥人在碎空星永久定居的地方。那是他們在這裡最先進的聚落！</value>
+    <value>懸吊城是挪麥人在碎空星永久定居的地方。那是他們在這裡最先進的聚落！</value>
   </entry>
   <entry>
     <key>RiebeckLearned_4Why they chose to build their most advanced settlement so close to a &lt;i&gt;you-know-what&lt;/i&gt; is beyond me. Maybe that kind of thing makes sense to a Nomai, though. ...Maybe they needed the &lt;size=20&gt;black hole&lt;/size&gt; for something?</key>
@@ -7286,7 +7286,7 @@
   </entry>
   <entry>
     <key>RiebeckLearned_8Oh wow! &lt;i&gt;Wow&lt;/i&gt;! This is the best thing that’s ever happened in the history of Outer Wilds Ventures! I can’t believe you talked to an actual Nomai!</key>
-    <value>喔哇！&lt;i&gt;哇&lt;/i&gt;！這是星際拓荒探險隊史上最棒的一件事！不敢相信你跟貨真價實的挪麥人說過話！</value>
+    <value>喔哇！&lt;i&gt;哇&lt;/i&gt;！這是星際拓荒隊史上最棒的一件事！不敢相信你跟貨真價實的挪麥人說過話！</value>
   </entry>
   <entry>
     <key>RiebeckLearned_8Great! So I just have to go back into space, fly to the Quantum Moon with zero visibility, find a spooky ruin, and travel through a few different types of dangerous terrain to get there.</key>
@@ -7322,7 +7322,7 @@
   </entry>
   <entry>
     <key>SignThey perished when the Interloper arrived, bringing with it the deadly substance we called ghost matter that flooded the entire solar system almost instantly and without warning.</key>
-    <value>他們在闖入者抵達時滅亡了。闖入者帶來了我們稱為幽物質的致命物質，幾乎在一瞬間淹沒整個太陽系，毫無預警。</value>
+    <value>他們在闖入者抵達時滅亡了。闖入者帶來了我們稱為靈質的致命物質，幾乎在一瞬間淹沒整個太陽系，毫無預警。</value>
   </entry>
   <entry>
     <key>SignWe never figured out how they died.</key>
@@ -7370,7 +7370,7 @@
   </entry>
   <entry>
     <key>SignThe answer is the moon! As it orbits our planet, the Attlerock’s gravity pulls on objects from different directions. In fact, it’s pulling on you right now!</key>
-    <value>答案是月亮！艾特洛岩繞行我們行星時，它的重力會從不同方向拉扯物體。事實上，它現在正拉著你！</value>
+    <value>答案是月亮！廢岩星繞行我們行星時，它的重力會從不同方向拉扯物體。事實上，它現在正拉著你！</value>
   </entry>
   <entry>
     <key>ROOT: I was hoping to deliver new ore data to Poke in her &lt;color=orange&gt;Black Hole Forge&lt;/color&gt;, but the warp tower on the &lt;color=orange&gt;Twilight Twin&lt;/color&gt; sent me to the wrong part of &lt;color=lightblue&gt;Brittle Hollow&lt;/color&gt;.</key>
@@ -7462,7 +7462,7 @@
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(north 250m)</key>
-    <value>&lt;color=orange&gt;懸城&lt;/color&gt;\\n（北方 250 公尺）</value>
+    <value>&lt;color=orange&gt;懸吊城&lt;/color&gt;\\n（北方 250 公尺）</value>
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Tower of Quantum Knowledge&lt;/color&gt;\\n(west 190m)</key>
@@ -7474,7 +7474,7 @@
   </entry>
   <entry>
     <key>The &lt;color=orange&gt;Hanging City&lt;/color&gt;\\n(below 50m)</key>
-    <value>&lt;color=orange&gt;懸城&lt;/color&gt;\\n（下方 50 公尺）</value>
+    <value>&lt;color=orange&gt;懸吊城&lt;/color&gt;\\n（下方 50 公尺）</value>
   </entry>
   <entry>
     <key>&lt;color=orange&gt;Eye Shrine District&lt;/color&gt;</key>
@@ -8026,7 +8026,7 @@
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found your notes about the Attlerock’s main crater.</key>
-    <value>我找到你寫的艾特洛岩主隕石坑筆記了。</value>
+    <value>我找到你寫的廢岩星主隕石坑筆記了。</value>
   </entry>
   <entry>
     <key>ChertFoundSomethingMenuI found Nomai writing about a hidden planet.</key>
@@ -8082,7 +8082,7 @@
   </entry>
   <entry>
     <key>FoundSomething2Some of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-    <value>其中一些殘片撞上了我們太陽系的天體，例如艾特洛岩。我認為它最大的隕石坑就是這麼來的。</value>
+    <value>其中一些殘片撞上了我們太陽系的天體，例如廢岩星。我認為它最大的隕石坑就是這麼來的。</value>
   </entry>
   <entry>
     <key>FoundSomething3How fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
@@ -8266,7 +8266,7 @@
   </entry>
   <entry>
     <key>FoundSomething2bSome of these shards collided with the celestial bodies in our solar system, such as the Attlerock, which I believe is how its biggest crater was formed.</key>
-    <value>其中一些殘片撞上了我們太陽系的天體，例如艾特洛岩。我認為它最大的隕石坑就是這麼來的。</value>
+    <value>其中一些殘片撞上了我們太陽系的天體，例如廢岩星。我認為它最大的隕石坑就是這麼來的。</value>
   </entry>
   <entry>
     <key>FoundSomething3bHow fascinating! It might interest you to know the existence of an additional planet is entirely plausible, if you look at the physics of our solar system. It would just have to be incredibly far out there - farther than Hearthian ships would be able to travel.</key>
@@ -8626,7 +8626,7 @@
   </entry>
   <entry>
     <key>MusicThe north pole is marked in red on your &lt;color=orange&gt;mini map&lt;/color&gt;, but the Attlerock is a pretty small moon, really. Just go north. You can’t miss it.</key>
-    <value>北極在你的&lt;color=orange&gt;小地圖&lt;/color&gt;上以紅色標示，不過艾特洛岩真的是顆小衛星。往北走就對了。不可能錯過。</value>
+    <value>北極在你的&lt;color=orange&gt;小地圖&lt;/color&gt;上以紅色標示，不過廢岩星真的是顆小衛星。往北走就對了。不可能錯過。</value>
   </entry>
   <entry>
     <key>PlaceHa ha, very funny. &lt;Pause/&gt;...Oh, stars above, you’re serious, aren’t you? That’s just depressing.</key>
@@ -8638,7 +8638,7 @@
   </entry>
   <entry>
     <key>PlaceWhen we first started Outer Wilds, travelers used to bring their ships here all the time for repairs. Our spacefaring technology has improved loads since then, but the older ships tended to, uh, fall apart a lot. Like, more than they do now.</key>
-    <value>星際拓荒剛起步的時候，旅人們動不動就把船開來這裡修。從那之後，我們的航太技術進步了一大截，但早期的船真的，呃，很容易解體。比現在的常多了。</value>
+    <value>星際拓荒隊剛起步的時候，旅人們動不動就把船開來這裡修。從那之後，我們的航太技術進步了一大截，但早期的船真的，呃，很容易解體。比現在的常多了。</value>
   </entry>
   <entry>
     <key>PlaceUsing the outpost cut down on the number of launches and landings taking place in the village and also the number of fires. Nowadays, though, it’s mostly just me up here raising saplings from Timber Hearth and keeping an eye on things.</key>
@@ -9218,7 +9218,7 @@
   </entry>
   <entry>
     <key>Curator3...On a more cheerful note, you’ll find Esker stationed on the Attlerock. They’re not a traveler so much as a lunar local, but I’m sure they’d appreciate a visit nevertheless.</key>
-    <value>……說點開心的：你會在艾特洛岩找到駐守的厄斯克。與其說是旅人，不如說是月亮的在地住戶，但我相信有人去探望，厄斯克一定很高興。</value>
+    <value>……說點開心的：你會在廢岩星找到駐守的厄斯克。與其說是旅人，不如說是月亮的在地住戶，但我相信有人去探望，厄斯克一定很高興。</value>
   </entry>
   <entry>
     <key>Curator4I like it! You’ll have plenty of options to choose from.</key>
@@ -9238,7 +9238,7 @@
   </entry>
   <entry>
     <key>Curator5Do you think you’ll go to the Attlerock, then? Our moon would be a safe place to travel to and get your bearings in space, and I’m sure Esker would appreciate the visit.</key>
-    <value>那麼，你會去艾特洛岩嗎？我們的月亮是個安全的目的地，適合熟悉太空環境，而且我相信厄斯克會很歡迎你去。</value>
+    <value>那麼，你會去廢岩星嗎？我們的月亮是個安全的目的地，適合熟悉太空環境，而且我相信厄斯克會很歡迎你去。</value>
   </entry>
   <entry>
     <key>Curator5Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
@@ -9250,7 +9250,7 @@
   </entry>
   <entry>
     <key>Curator6If you need help getting started, you could go visit Esker on the moon. They’re alone on the Attlerock most of the time, so I’m sure they’d appreciate it.</key>
-    <value>不知道從哪開始的話，可以去月亮上找厄斯克。艾特洛岩上多半只有厄斯克一個人，有人去探望一定很開心。</value>
+    <value>不知道從哪開始的話，可以去月亮上找厄斯克。廢岩星上多半只有厄斯克一個人，有人去探望一定很開心。</value>
   </entry>
   <entry>
     <key>Curator6Plus, we don’t know what the ancient Nomai ruins on the moon are, or why they were built. You could put your new translator tool through its paces!</key>
@@ -9258,7 +9258,7 @@
   </entry>
   <entry>
     <key>Curator7Planning to follow in the footsteps of Feldspar and the great Outer Wilds Ventures tradition, are you? I might have guessed.</key>
-    <value>打算追隨費爾德斯巴的腳步、繼承星際拓荒探險隊的偉大傳統，是吧？我早該猜到。</value>
+    <value>打算追隨費爾德斯巴的腳步、繼承星際拓荒隊的偉大傳統，是吧？我早該猜到。</value>
   </entry>
   <entry>
     <key>Curator7Well, see if you can’t put that translator tool of yours to good use while you’re out there!</key>
@@ -9346,7 +9346,7 @@
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparFeldspar was one of the four founding members of Outer Wilds, along with our flight coach Gossan, Slate the engineer, and me.</key>
-    <value>費爾德斯巴是星際拓荒的四位創始成員之一，其他三位是我們的飛行教練古薩、工程師石雷特，還有我。</value>
+    <value>費爾德斯巴是星際拓荒隊的四位創始成員之一，其他三位是我們的飛行教練古薩、工程師石雷特，還有我。</value>
   </entry>
   <entry>
     <key>CuratorMoreAboutFeldsparAs ground control and later the museum curator, I didn’t work with Feldspar as closely as Slate and Gossan did. I &lt;i&gt;can&lt;/i&gt; tell you Feldspar was absolutely fearless, though. Nothing scared them.</key>
@@ -9482,11 +9482,11 @@
   </entry>
   <entry>
     <key>SignalscopeKid2It’s set to the Outer Wilds Ventures frequency so I can pick up the travelers’ music.</key>
-    <value>它調到星際拓荒探險隊的頻率，這樣就能收到旅人們的音樂。</value>
+    <value>它調到星際拓荒隊的頻率，這樣就能收到旅人們的音樂。</value>
   </entry>
   <entry>
     <key>SignalscopeKid3There are! My signalscope is set to the Outer Wilds Ventures frequency, so I’m listening to the travelers’ music.</key>
-    <value>有喔！我的訊號望遠鏡調到星際拓荒探險隊的頻率，所以我正在聽旅人們的音樂。</value>
+    <value>有喔！我的訊號望遠鏡調到星際拓荒隊的頻率，所以我正在聽旅人們的音樂。</value>
   </entry>
   <entry>
     <key>SignalscopeKid4Last night I heard Riebeck’s banjo coming from Brittle Hollow. I hope that means they’re safe.</key>
@@ -9638,7 +9638,7 @@
   </entry>
   <entry>
     <key>SignBig thanks to these additional founding members of Outer Wilds Ventures, without whom we would never have gotten off the ground:</key>
-    <value>特別感謝以下星際拓荒探險隊的額外創始成員，沒有他們，我們永遠飛不上天：</value>
+    <value>特別感謝以下星際拓荒隊的額外創始成員，沒有他們，我們永遠飛不上天：</value>
   </entry>
   <entry>
     <key>SignMatthew Steinhauer</key>
@@ -9928,15 +9928,15 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G Cave</key>
-      <value>無重力洞穴</value>
+      <value>零重力洞窟</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveI hear Gossan has the zero-g cave set up if I want a refresher before I launch.</key>
-      <value>聽說發射前想複習的話，古薩已經把無重力洞穴架設好了。</value>
+      <value>聽說發射前想複習的話，古薩已經把零重力洞窟架設好了。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveA cave at the very center of Timber Hearth used by Outer Wilds Ventures to train new astronauts.</key>
-      <value>位於木爐星正中心的洞穴，星際拓荒探險隊用它來訓練新太空人。</value>
+      <value>位於木爐星正中心的洞穴，星際拓荒隊用它來訓練新太空人。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Zero-G CaveI successfully repaired another "satellite" for Gossan.</key>
@@ -10188,7 +10188,7 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>The Hanging City</key>
-      <value>懸城</value>
+      <value>懸吊城</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Northern Settlement</key>
@@ -10224,11 +10224,11 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeThe Black Hole Forge is suspended below the Hanging City. I found a switch in the Meltwater District that raises and lowers the forge.</key>
-      <value>黑洞熔爐懸吊在懸城下方。我在融水區找到一個可以升降熔爐的開關。</value>
+      <value>黑洞熔爐懸吊在懸吊城下方。我在融水區找到一個可以升降熔爐的開關。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeThe Black Hole Forge District is the highest district in the Hanging City.</key>
-      <value>黑洞熔爐區是懸城最高的一區。</value>
+      <value>黑洞熔爐區是懸吊城最高的一區。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Black Hole ForgeA Nomai named Poke planned to create a new advanced warp core in the Black Hole Forge.</key>
@@ -10272,11 +10272,11 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Alignment Angle DiagramThis results in slightly longer warp windows that last roughly several seconds.</key>
-      <value>這使躍遷窗口稍微延長，大約能持續數秒。</value>
+      <value>這樣能躍遷的時機就寬裕了一些，大約有數秒可用。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Alignment Angle DiagramAnyone stepping onto the warp platform during the active window will be immediately warped.</key>
-      <value>窗口開啟期間，任何踏上躍遷平台的人都會立刻被傳送。</value>
+      <value>只要抓準躍遷時機踏上躍遷平台，就能立刻觸發傳送。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Southern Observatory</key>
@@ -10624,7 +10624,7 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>River LowlandsI found several ornate metal artifacts inside a workshop surrounded by ghost matter.</key>
-      <value>我在一間被幽物質包圍的工坊裡，發現了幾件雕飾精緻的金屬神器。</value>
+      <value>我在一間被靈質包圍的工坊裡，發現了幾件雕飾精緻的金屬神器。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Burned Slide Reel</key>
@@ -11684,7 +11684,7 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Esker’s CampSounds like Esker is still stationed on the Attlerock. They’ve been there by themself for a while.</key>
-      <value>聽起來厄斯克仍駐守在艾特洛岩。他已經獨自待在那裡好一陣子了。</value>
+      <value>聽起來厄斯克仍駐守在廢岩星。他已經獨自待在那裡好一陣子了。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Esker’s CampEsker is growing a crop of trees at their camp. They seemed to be doing ok, but they’ve probably been alone on the moon for too long.</key>
@@ -11696,7 +11696,7 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Lunar LookoutEsker says the Attlerock’s north pole (marked in red on my minimap) is a great spot to listen for the other travelers’ music with a signalscope.</key>
-      <value>厄斯克說，艾特洛岩的北極（小地圖上以紅色標示）是用訊號望遠鏡聆聽其他旅人音樂的絕佳地點。</value>
+      <value>厄斯克說，廢岩星的北極（小地圖上以紅色標示）是用訊號望遠鏡聆聽其他旅人音樂的絕佳地點。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Lunar LookoutA lookout platform with a spectacular view of the solar system. Esker uses their signalscope here to keep tabs on the other travelers.</key>
@@ -11712,11 +11712,11 @@ Congroo
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Eye Signal LocatorI hear there are Nomai ruins somewhere on the Attlerock. No one knows what they are or why they were built.</key>
-      <value>聽說艾特洛岩某處有挪麥遺跡。沒有人知道那是什麼、為何而建。</value>
+      <value>聽說廢岩星某處有挪麥遺跡。沒有人知道那是什麼、為何而建。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Eye Signal LocatorThe Nomai text in the observatory talks about calibrating some sort of device on the Attlerock.</key>
-      <value>天文台的挪麥文字提到曾在艾特洛岩校準某種裝置。</value>
+      <value>天文台的挪麥文字提到曾在廢岩星校準某種裝置。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Eye Signal LocatorA Nomai device created to pinpoint the sources of distant signals.</key>
@@ -12954,7 +12954,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>482</key>
-      <value>階段 3：點燃反向火箭</value>
+      <value>階段 3：點燃反推火箭</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>483</key>
@@ -13018,7 +13018,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>511</key>
-      <value>&lt;color=orange&gt;星際拓荒&lt;/color&gt;建議使用遊戲手把遊玩，體驗最佳……</value>
+      <value>&lt;color=orange&gt;《Outer Wilds》&lt;/color&gt;建議使用遊戲手把遊玩，體驗最佳……</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>520</key>
@@ -13278,7 +13278,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>617</key>
-      <value>艾特洛岩</value>
+      <value>廢岩星</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>618</key>
@@ -13370,7 +13370,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>681</key>
-      <value>星際拓荒探險隊</value>
+      <value>星際拓荒隊</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>682</key>
@@ -13454,7 +13454,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>716</key>
-      <value>艾特洛岩</value>
+      <value>廢岩星</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>717</key>
@@ -13474,11 +13474,11 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>730</key>
-      <value>星際拓荒行星圖</value>
+      <value>星際拓荒星圖</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>731</key>
-      <value>星際拓荒探險隊</value>
+      <value>星際拓荒隊</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>732</key>
@@ -13694,7 +13694,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>935</key>
-      <value>無重力洞穴</value>
+      <value>零重力洞窟</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>936</key>
@@ -13794,7 +13794,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>960</key>
-      <value>載入中……</value>
+      <value>載入中…</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>961</key>
@@ -13806,7 +13806,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>963</key>
-      <value>危險：附近偵測到幽物質</value>
+      <value>危險：附近偵測到靈質</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>964</key>
@@ -13970,7 +13970,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1010</key>
-      <value>請確認 \\n- 星際拓荒擁有寫入磁碟的權限 \\n- 硬碟空間尚未用盡</value>
+      <value>請確認 \\n- 《Outer Wilds》擁有寫入磁碟的權限 \\n- 硬碟空間尚未用盡</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1011</key>
@@ -14238,7 +14238,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1124</key>
-      <value>遊戲內攝影機的垂直視野。警告：變更此項可能影響星際拓荒中的某些謎題。\\n渲染負擔：低</value>
+      <value>遊戲內攝影機的垂直視野。警告：變更此項可能影響《Outer Wilds》中的某些謎題。\\n渲染負擔：低</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1125</key>
@@ -14790,7 +14790,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1411</key>
-      <value>驚嚇減緩（眼之回音）</value>
+      <value>驚嚇減緩（《Echoes of the Eye》）</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1412</key>
@@ -14798,11 +14798,11 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1413</key>
-      <value>眼之回音的驚悚要素是預期體驗的一部分。如果它們妨礙了你享受星際拓荒，啟用此選項可以減緩部分驚悚要素。\\n確定嗎？</value>
+      <value>《Echoes of the Eye》的驚悚要素是預期體驗的一部分。如果它們妨礙了你享受《Outer Wilds》，啟用此選項可以減緩部分驚悚要素。\\n確定嗎？</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1414</key>
-      <value>星際拓荒的驚悚要素是預期體驗的一部分。如果它們妨礙了你享受遊戲，啟用此選項可以減緩部分驚悚要素。\\n確定嗎？</value>
+      <value>《Outer Wilds》的驚悚要素是預期體驗的一部分。如果它們妨礙了你享受遊戲，啟用此選項可以減緩部分驚悚要素。\\n確定嗎？</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1420</key>
@@ -14874,7 +14874,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1452</key>
-      <value>眼之回音的某些段落對部分玩家來說可能過於刺激。如果它們妨礙了你享受星際拓荒，遊戲性選單中提供「驚嚇減緩」選項。</value>
+      <value>《Echoes of the Eye》的某些段落對部分玩家來說可能過於刺激。如果它們妨礙了你享受《Outer Wilds》，遊戲性選單中提供「驚嚇減緩」選項。</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1453</key>
@@ -14946,7 +14946,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1520</key>
-      <value>感謝你支持星際拓荒探險隊！村莊天文台現已展出新的博物館展品。</value>
+      <value>感謝你支持星際拓荒隊！村莊天文台現已展出新的博物館展品。</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1521</key>
@@ -14974,7 +14974,7 @@ Congroo
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1540</key>
-      <value>從標題畫面繼續遊戲後，眼之回音即可遊玩。要現在返回標題畫面嗎？</value>
+      <value>從標題畫面繼續遊戲後，《Echoes of the Eye》即可遊玩。要現在返回標題畫面嗎？</value>
     </TranslationTableEntryUI>
     <TranslationTableEntryUI>
       <key>1541</key>
