@@ -4,5 +4,6 @@
   "name": "Traditional Chinese Refined",
   "uniqueName": "Seacucu.OWCHTRefined",
   "version": "1.0.3",
-  "owmlVersion": "2.3.3"
+  "owmlVersion": "2.3.3",
+  "dependencies": ["xen.LocalizationUtility"]
 }
