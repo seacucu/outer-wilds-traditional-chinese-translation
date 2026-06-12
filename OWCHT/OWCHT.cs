@@ -18,8 +18,6 @@ namespace OWCHT
                 return;
             }
 
-            DumpEnglishTranslation();   // 暫時：dump 遊戲當前版本的英文文本，比對用，完成後移除
-
             api.RegisterLanguage(this, LanguageName, "Translation.xml");
             api.AddLanguageFont(this, LanguageName, "Assets/owcht", "Assets/fonts/notosanstc-bold-dyn.otf", out Font font);
 
@@ -31,23 +29,6 @@ namespace OWCHT
             {
                 ModHelper.Console.WriteLine($"已註冊語言「{LanguageName}」並載入字型 {font.name}。");
             }
-        }
-
-        // 暫時：把遊戲內建的英文 Translation 資產原樣寫出，供與 Translation_TC.xml 比對
-        private void DumpEnglishTranslation()
-        {
-            // 與遊戲 TextTranslation.SetLanguage 相同的組路徑方式：Translation\<語言代碼>\Translation
-            var sep = System.IO.Path.DirectorySeparatorChar;
-            var assetPath = "Translation" + sep + TextTranslation.s_langFolder[(int)TextTranslation.Language.ENGLISH] + sep + "Translation";
-            var asset = Resources.Load<TextAsset>(assetPath);
-            if (asset == null)
-            {
-                ModHelper.Console.WriteLine($"Dump 失敗：找不到資產 {assetPath}。", OWML.Common.MessageType.Error);
-                return;
-            }
-            var dumpPath = System.IO.Path.Combine(ModHelper.Manifest.ModFolderPath, "Translation_EN_dump.xml");
-            System.IO.File.WriteAllText(dumpPath, asset.text, System.Text.Encoding.UTF8);
-            ModHelper.Console.WriteLine($"已 dump 英文文本到 {dumpPath}");
         }
     }
 }
