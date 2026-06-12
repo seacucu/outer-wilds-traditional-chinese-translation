@@ -1207,7 +1207,7 @@
     <value>&lt;i&gt;照&lt;/i&gt;時間循環的運作方式，那件事嚴格來說真的發生過嗎？</value>
   </entry>
   <entry>
-    <key>sun station 2That’s true. &lt;pause&gt; I’m not sure how to factor that in.</key>
+    <key>sun station 2That’s true. &lt;Pause&gt; I’m not sure how to factor that in.</key>
     <value>也是。&lt;pause&gt;我不知道該怎麼把這點算進去。</value>
   </entry>
   <entry>
@@ -1231,7 +1231,7 @@
     <value>但既然那只發生在之前的循環裡……</value>
   </entry>
   <entry>
-    <key>sun station 5aHaha, yeah, me either. &lt;pause&gt; ...Obviously.</key>
+    <key>sun station 5aHaha, yeah, me either. &lt;Pause&gt; ...Obviously.</key>
     <value>哈哈，對，我也不管。&lt;pause&gt;……廢話。</value>
   </entry>
   <entry>
@@ -9675,48 +9675,48 @@
   <entry>
     <key>&lt;color=
 
-			loading...
+loading...
 
 
-			&gt;&lt;/color&gt;&lt;size=20&gt;&lt;color=orange&gt;
-			. . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
-			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . .
-			. . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
-			. . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
-			. . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
-			. . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
-			. . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
-			. . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
-			. . . .WWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
-			. . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
-			. . .WWWWWW . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . .WWWWWWW . .
-			. .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . .WWWWWWWW . .
-			. .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . WWWWWWW . .
-			. WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			. WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . . .WWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . .
-			.WWWWWWWW . . . . . . . . . . . . . . . . . . . .WWWWWW . . . . . . . . .WWWWWWW . .
-			. .WWWWWW . . . . . . . .WWWWWW . . . . . . . WWWWWWWWW . . . . . . . . WWWWWWW . . .
-			. .WWWWWWWW . . . . . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . .
-			. .WWWWWWWW . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . WWWWWWWW . . .
-			. . .WWWWWW . . . . . . . . .WWWWWWWWWWWWWWWWWW . . . . . . . . . . .WWWWWWWW . . . .
-			. . .WWWWWWWW . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . .WWWWWWWW . . . . .
-			. . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
-			. . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
-			. . . . . WWWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
-			. . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
-			. . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
-			. . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . .
-			. . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
-			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . .
-			. . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . .
-			&lt;/color&gt;&lt;/size&gt;</key>
+&gt;&lt;/color&gt;&lt;size=20&gt;&lt;color=orange&gt;
+ . . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . 
+ . . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . .
+ . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
+ . . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
+ . . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
+ . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
+ . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
+ . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . . .
+ . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
+ . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . . .
+ . . . .WWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
+ . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . . .
+ . . .WWWWWW . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . .WWWWWWW . . 
+ . .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . .WWWWWWWW . .
+ . .WWWWWWWW . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . WWWWWWW . .
+ . WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
+ . WWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
+ .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . . . .WWWWWWWW . . . . . . . .WWWWWW . .
+ .WWWWWWWW . . . . . . .WWWW . . . . . . . . . . . . .WWWW . . . . . . . . .WWWWWW . .
+ .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
+ .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WWWWWWW . .
+ .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWW . .
+ .WWWWWWWW . . . . . . . . . . . . . . . . . . . .WWWWWW . . . . . . . . .WWWWWWW . . 
+ . .WWWWWW . . . . . . . .WWWWWW . . . . . . . WWWWWWWWW . . . . . . . . WWWWWWW . . .
+ . .WWWWWWWW . . . . . . .WWWWWWWW . . . . . .WWWWWWWW . . . . . . . . .WWWWWWWW . . .
+ . .WWWWWWWW . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . WWWWWWWW . . . 
+ . . .WWWWWW . . . . . . . . .WWWWWWWWWWWWWWWWWW . . . . . . . . . . .WWWWWWWW . . . .
+ . . .WWWWWWWW . . . . . . . . . .WWWWWWWWWW . . . . . . . . . . . .WWWWWWWW . . . . .
+ . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . .
+ . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . .
+ . . . . . WWWWWWWWW . . . . . . . . . . . . . . . . . . . . .WWWWWWWWWW . . . . . . .
+ . . . . . . .WWWWWWWW . . . . . . . . . . . . . . . . . .WWWWWWWWWWWW . . . . . . . .
+ . . . . . . . .WWWWWWWWWW . . . . . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . .
+ . . . . . . . . .WWWWWWWWWWWW . . . . . . . . . .WWWWWWWWWWWWWW . . . . . . . . . . .
+ . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
+ . . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . .WWWWWWWWWWWWWWWW . . . . . . . . . . . . . . . . . . .
+&lt;/color&gt;&lt;/size&gt;</key>
     <value>&lt;size=20&gt;&lt;color=orange&gt;
 			. . . . . . . . . . . . . . . WWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . . . .
 			. . . . . . . . . . . . .WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW . . . . . . . . . . .
@@ -9760,30 +9760,30 @@
   <entry>
     <key>&lt;color=
 
-			LOADING...???
+LOADING...???
 
 
-			&gt;&lt;/color&gt;&lt;size=20&gt;&lt;color=orange&gt;
-			WWWWWWWWWWWWWWW
-			WWWWWW          WWWWWWW
-			WWWW                   WWWWW
-			WWWW                       WWWWW
-			WWWW                           WWWW
-			WWW                             WWWW
-			WWW      WW            WWWW       WWWW
-			WWWW     WWWW         WWWWWWWW     WWWW
-			WWW      WWWW        WWW    WWW     WWW
-			WWWW       WW                        WWW
-			WWWW                                WWWW
-			WWWW                    WWW         WWWW
-			WWWW       WWWW      WWWW         WWWW
-			WWW         WWWWWWWWWW          WWWW
-			WWWW                         WWWWW
-			WWWWW                     WWWWW
-			WWWWW              WWWWWWW
-			WWWWWWWWWWWWWWWWWWWW
-			WWWWWWWW
-			&lt;/color&gt;&lt;/size&gt;</key>
+&gt;&lt;/color&gt;&lt;size=20&gt;&lt;color=orange&gt;                                       
+               WWWWWWWWWWWWWWW             
+           WWWWWW          WWWWWWW         
+        WWWW                   WWWWW       
+      WWWW                       WWWWW     
+    WWWW                           WWWW    
+    WWW                             WWWW   
+   WWW      WW            WWWW       WWWW  
+  WWWW     WWWW         WWWWWWWW     WWWW  
+  WWW      WWWW        WWW    WWW     WWW  
+ WWWW       WW                        WWW  
+ WWWW                                WWWW  
+ WWWW                    WWW         WWWW  
+  WWWW       WWWW      WWWW         WWWW   
+   WWW         WWWWWWWWWW          WWWW    
+    WWWW                         WWWWW     
+     WWWWW                     WWWWW       
+        WWWWW              WWWWWWW         
+          WWWWWWWWWWWWWWWWWWWW             
+                WWWWWWWW                   
+&lt;/color&gt;&lt;/size&gt;</key>
     <value>&lt;color=
 
 			LOADING...???
@@ -9814,24 +9814,24 @@
   <entry>
     <key>omg... :O&lt;size=20&gt;&lt;color=black&gt;
 
-			▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-			█░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█
-			█░█░░░█░█▀░▄░██▄▀▄█░█░░░█░█
-			█░█▄▄▄█░█▀█░█▄░▀▀░█░█▄▄▄█░█
-			█▄▄▄▄▄▄▄█▄█▄█░▀▄▀░█▄▄▄▄▄▄▄█
-			█▄▄▄▄░█▄░░░▄█▄█▄▄▀▄█░█▄█░██
-			█▄█░██▀▄▀█░▀░▄█▀░█▀░░█▄▄░░█
-			█▀▀▄░▀█▄░▀▄▀▄▀▀▀▄█░▄▀▄▄░███
-			█░█▀▄▄▀▄▀▄▀▄█▀░▄▄█▀▄███▄▄░█
-			█▄██▄█▄▄▄░▀▀█▄█▄▄░▄▄▄░█▄▀▄█
-			█░▄▄▄▄▄░█▄▄▄░▄█▀█░█▄█░░█▄▄█
-			█░█░░░█░█░▀█▄▀▀▀▄▄░░▄░▄▄▀░█
-			█░█▄▄▄█░█░░██▀░▄▀▀░▀▀▀█▄█░█
-			█▄▄▄▄▄▄▄█▄███▄█▄███▄███▄▄▄█
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░▄▄▄▄▄░█▀░█▀▀▀▀▀░█░▄▄▄▄▄░█
+█░█░░░█░█▀░▄░██▄▀▄█░█░░░█░█
+█░█▄▄▄█░█▀█░█▄░▀▀░█░█▄▄▄█░█
+█▄▄▄▄▄▄▄█▄█▄█░▀▄▀░█▄▄▄▄▄▄▄█
+█▄▄▄▄░█▄░░░▄█▄█▄▄▀▄█░█▄█░██
+█▄█░██▀▄▀█░▀░▄█▀░█▀░░█▄▄░░█
+█▀▀▄░▀█▄░▀▄▀▄▀▀▀▄█░▄▀▄▄░███
+█░█▀▄▄▀▄▀▄▀▄█▀░▄▄█▀▄███▄▄░█
+█▄██▄█▄▄▄░▀▀█▄█▄▄░▄▄▄░█▄▀▄█
+█░▄▄▄▄▄░█▄▄▄░▄█▀█░█▄█░░█▄▄█
+█░█░░░█░█░▀█▄▀▀▀▄▄░░▄░▄▄▀░█
+█░█▄▄▄█░█░░██▀░▄▀▀░▀▀▀█▄█░█
+█▄▄▄▄▄▄▄█▄███▄█▄███▄███▄▄▄█
 
 
 
-			&lt;/color&gt;&lt;/size&gt;</key>
+&lt;/color&gt;&lt;/size&gt;</key>
     <value>我的天……:O&lt;size=20&gt;&lt;color=black&gt;
 
 			▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
@@ -9868,6 +9868,46 @@
   <entry>
     <key>&lt;color=red&gt;ERROR: Unknown Language&lt;/color&gt;</key>
     <value>&lt;color=red&gt;錯誤：未知語言&lt;/color&gt;</value>
+  </entry>
+  <entry>
+    <key>&lt;color=lightblue&gt;--Divergence Meter active--
+Now calculating world line divergence...
+&lt;/color&gt;</key>
+    <value>&lt;color=lightblue&gt;--Divergence Meter active--
+Now calculating world line divergence...
+&lt;/color&gt;</value>
+  </entry>
+  <entry>
+    <key>&lt;color=lightblue&gt;Current divergence value:
+&lt;WorldLine&gt;
+&lt;/color&gt;</key>
+    <value>&lt;color=lightblue&gt;Current divergence value:
+&lt;WorldLine&gt;
+&lt;/color&gt;</value>
+  </entry>
+  <entry>
+    <key>&lt;color=orange&gt;To all those who have streamed and clipped their playthroughs, I offer my humble thanks. Thank you for discovering the anomalies within this world line.
+&lt;/color&gt;</key>
+    <value>&lt;color=orange&gt;To all those who have streamed and clipped their playthroughs, I offer my humble thanks. Thank you for discovering the anomalies within this world line.
+&lt;/color&gt;</value>
+  </entry>
+  <entry>
+    <key>&lt;color=orange&gt;Subsequent world lines have been improved thanks to you. This may be my last venture into this world, so I leave you with this:
+Enjoy the journey, friend.
+&lt;/color&gt;</key>
+    <value>&lt;color=orange&gt;Subsequent world lines have been improved thanks to you. This may be my last venture into this world, so I leave you with this:
+Enjoy the journey, friend.
+&lt;/color&gt;</value>
+  </entry>
+  <entry>
+    <key>&lt;color=orange&gt;El
+Psy
+Congroo
+&lt;/color&gt;</key>
+    <value>&lt;color=orange&gt;El
+Psy
+Congroo
+&lt;/color&gt;</value>
   </entry>
   <table_shipLog>
     <TranslationTableEntry>
@@ -10675,10 +10715,6 @@
       <value>隱藏的密庫封印</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
-      <key>Secret Passage</key>
-      <value>祕密通道</value>
-    </TranslationTableEntry>
-    <TranslationTableEntry>
       <key>Symbol RoomThe light coming out of the vault gave me a vision of climbing a spiral staircase to a room near the top of a tower. One of the Stranger's inhabitants pointed at a mural of an identical tower beneath a ringed planet, then picked up an artifact and carried it downstairs to a room with a green fire. Some time later, two of the lamps in the mural room turned off, plunging the mural into darkness and revealing a secret passage.</key>
       <value>密庫透出的光讓我看見一段幻象：我爬上螺旋梯，來到塔頂附近的房間。陌生者的一位居民指著一幅壁畫——畫中是一座一模一樣的塔，矗立在一顆環帶行星之下——然後拿起神器，提著它下樓走進一個有綠色火焰的房間。過了一段時間，壁畫房裡兩盞燈熄滅，壁畫沒入黑暗，露出一條祕密通道。</value>
     </TranslationTableEntry>
@@ -10847,10 +10883,6 @@
       <value>封閉的火焰</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
-      <key>Fire Chamber</key>
-      <value>火焰室</value>
-    </TranslationTableEntry>
-    <TranslationTableEntry>
       <key>Subterranean LakeI looked through a peephole in the side of a large metal structure suspended by chains. Inside is another green fire and a staircase leading farther below.</key>
       <value>我從一座鎖鏈懸吊的巨大金屬結構側面的窺孔往裡看。裡面有另一團綠色火焰，還有一道通往更下方的階梯。</value>
     </TranslationTableEntry>
@@ -10861,10 +10893,6 @@
     <TranslationTableEntry>
       <key>Vault Room Fire</key>
       <value>密庫室火焰</value>
-    </TranslationTableEntry>
-    <TranslationTableEntry>
-      <key>Missing Vault</key>
-      <value>失蹤的密庫</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
       <key>Subterranean LakeI saw a vision-like recording of two figures taking artifacts into a large metal structure suspended by chains and going to sleep at the green fire in front of the sealed vault. Upon waking up with lit artifacts, the two figures picked up the vault and carried it down a staircase to somewhere farther below.</key>
@@ -11611,7 +11639,7 @@
       <value>眼很可能是太陽系中一切宏觀量子現象的源頭。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
-      <key>Sixth LocationSolanum wonders what would happen if a concious observer were to enter the Eye.</key>
+      <key>Sixth LocationSolanum wonders what would happen if a conscious observer were to enter the Eye.</key>
       <value>索拉農想知道：如果一個有意識的觀測者進入眼，會發生什麼事。</value>
     </TranslationTableEntry>
     <TranslationTableEntry>
@@ -15059,6 +15087,30 @@
     <TranslationTableEntryUI>
       <key>1194</key>
       <value>自動：依語言與平台自動決定大小。\\n標準／大：手動鎖定為所選大小。</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1146</key>
+      <value>徒步行走時反轉觀看動作的右左操作。</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1147</key>
+      <value>操作飛船時反轉觀看動作的右左操作。</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1195</key>
+      <value>反轉玩家視野（水平）</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1196</key>
+      <value>反轉飛船視野（水平）</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1197</key>
+      <value>反轉玩家視野（垂直）</value>
+    </TranslationTableEntryUI>
+    <TranslationTableEntryUI>
+      <key>1198</key>
+      <value>反轉飛船視野（垂直）</value>
     </TranslationTableEntryUI>
   </table_ui>
 </TranslationTable_XML>
